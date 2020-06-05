@@ -1,4 +1,4 @@
-#Lukacs sur l'articulation de l'organisation avec la theorie revolutionaire
+# Lukacs sur l'articulation de l'organisation avec la theorie revolutionaire
 
 L'organisation = enfant pauvre de la theorie revolutionaire; bien que sources de vives controverses au sein du parti notament venant des factions opportunistes de celui-ci. Ces deliberations offe un materiel consequent a objectiver! Reduit a une consideration technique, car l'attention theorique etait omnubilee par l'intellection de la situation economique/politique et ses consequences tactique. Cet consideration technique en est meme reduite a une approche instinctive/spontanee, bien que ces notions aient des repercussions concrete sur la tactique politique.
 
