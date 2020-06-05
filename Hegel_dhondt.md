@@ -69,3 +69,5 @@ Pour Hegel, la colonisation offre une solution precaire et en sursis aux contrad
 
 ## Le destin des colonies
 La precarite de la solution offerte par la colonisation pour resoudre les contradictions de la Metropole, culminera a l'eveil inevitable du desir d'independance des peuples dans ces colonies. Servant originellement de soupape au mecontentement des classes laborieuse incapable de subvenir a leurs besoins essentiels, la colonisation offra pour un temps une voie de secours. Cette voies fut prise de deux manieres, l'une spontanee avec des individus tentant leurs chance de maniere autonomes et en se detachant de leur patrie d'origine; l'autre plus systemique avec le concours de l'Etat. Les deux ne pourront empecher le desir d'emancipation une l'appetit de la metropole devenant trop grand pour permettre un vie decente meme pour les residents des colonies.
+
+## Contradictions politiques vivantes
