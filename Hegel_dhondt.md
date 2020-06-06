@@ -79,3 +79,5 @@ Neanmoins au crepuscule de la feodalite cette proposition bourgeoise/liberale re
 
 ## La dissonance religieuse
 Les contradictions economiques ne sont pas reconciliees par la sphere religieuse. Cependant Hegel reste grandement inspire par la tradition chretienne en offrant des images illustrant ses demonstrations conceptuelles. En authentique dialecticien, il note les contradictions interne a la Religion qui impliquerait son propre deperissement. Cette reflexion est proposee malgre la censure ambiente.
+
+## Le geant avance
