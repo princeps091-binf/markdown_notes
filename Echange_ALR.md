@@ -1,4 +1,4 @@
-# Notes sur l'echange avec Annie Alcroix-Riz
+# Notes sur l'echange avec Annie Lacroix-Riz
 
 Annie remarque que les points 1 et 2 reviennent au meme.
 
