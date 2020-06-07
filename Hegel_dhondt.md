@@ -81,3 +81,4 @@ Neanmoins au crepuscule de la feodalite cette proposition bourgeoise/liberale re
 Les contradictions economiques ne sont pas reconciliees par la sphere religieuse. Cependant Hegel reste grandement inspire par la tradition chretienne en offrant des images illustrant ses demonstrations conceptuelles. En authentique dialecticien, il note les contradictions interne a la Religion qui impliquerait son propre deperissement. Cette reflexion est proposee malgre la censure ambiente.
 
 ## Le geant avance
+Malgre de reelles deception a l'egard du deroule des evenements que Hegel constatait, qui l'ont definitivement fait nourrir du desaroi, il n'a jamais perdu de vue le mouvement concret qui se deployait et qui malgre tout tendait a une extension de la liberte pour le genre humain. Il trace un paralelle entre ce procesus et la marche ineluctable d'un geant dont la progression ne peut etre detournee par quelque individus particulier.
