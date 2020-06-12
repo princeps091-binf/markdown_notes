@@ -4,3 +4,9 @@ Hegel represente le philosophe de l'histoire par excellence, avec la profonde co
 ## Qui pense abstrait
 
 Il y a toujours une aprehension concernant la confrontation avec l'effort de conceptualisation. Cette aprehension marque un malaise que cet effort evoque dans le quotidien. Ce procesus indique l'importance d'avoir un espace et un temps dedie a cet effort. L'autre aspect important de la pensee concrete est son soucis de se concentrer sur des notions qui paraissent vulgaires/evidente pour la "bonne societe". Cette posture vis-a-vis de cet effort va reduire le champs de la reflexion qui eliminera des characterisations exhaustives du procesus a la source de ces notions. Cette elimination de certains aspect est exactement ce qu'Hegel appelle la pensee abstraite. Parfois, cette totalite peut etre observe parmi les cercles les plus populaire qui par leur ferveur religieuse atteigne episodiquement cette vision concrete par la grace. De plus la relation/reconnaissance entre differentes classes peut galvaniser cet acces a la totalite pour toutes les parties impliquees.
+
+## La philosophie a le gout de concret
+La quete du vrai/concret (philosophie) doit s'efforcer de viser a la reconciliation des diverses categories identifiees dans le procesus d'entendement pour tendre vers une totalisation a la mesure du concret. De plus cet effort doit inclure une perspective historique afin de pleinement epouser le mouvement reel de la realite.
+
+## La loi du coeur
+Avec ces considerations, Hegel va s'opposer a toute initiative qui va se limiter a une appreciation partiale de la situation/procesus considere. Typiquement ce genre d'approche est adopte par des Don Quichotte qui vont reduire l'entendement d'un phenomene aux interpretations derivees de leurs perceptions auto-centrees, avec leur individualite placee au coeur de la comprehension (loi du coeur) et non le phenomene dans son objectivite.
