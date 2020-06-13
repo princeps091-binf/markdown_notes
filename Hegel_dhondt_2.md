@@ -21,4 +21,4 @@ Un esprit en quete de verite mais se refusant a la confrontation avec le reel es
 Ce personnage Shakespearien est une illustration remarquable de la belle-ame. L'emmurement du raisonnement de Hamlet pour dissiper ses soupcons l'empeche de percer a jour les reels tenants et aboutissants des circonstances de sa situation. Cette entetement le menera a une posture abstraite et extreme de perpetuel attente ou du jugement mal place concernant la justesse de favoriser le reflexion ou l'instinct.
 
 ## Machiavel
-En contraste Hamlet on pourrait oppose Machiavel, qui constatant la necessite d'une reunification des divers seigneurs Italiens developpa un arsenal de strategies pour mener a bien cet agenda menant a un stade nouveau du bien publique.
+En contraste de Hamlet on pourrait oppose Machiavel, qui constatant la necessite d'une reunification des divers seigneurs Italiens developpa un arsenal de strategies pour mener a bien cet agenda menant a un stade nouveau du bien publique.
