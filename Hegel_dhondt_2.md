@@ -33,3 +33,4 @@ Placer ainsi la rationalite au centre de l'explication du monde comme methodolog
 Le saut decisif dans l'effort d'intellection de la philosophie est la confrontation avec le reel afin d'echapper a l'engloutissement d'une pensee renfermer sur elle-meme. Cette effort de reconciliation doit aussi s'operer pour les categories developpees dans le procesus d'intellection afin de pleinement saisir la realite dans sa totalite. Cette volonte est a la base du mouvement protestant. Cette volonte de totalisation rationelle permet d'entrevoir une intellection plus vivifiante que la compromission menant a l'acceptation d'une part de reel non-raisonee (laisser un espace a l'esotherisme).
 
 Enfin cet effort d'intellection ne murit qu'une fois le procesus historique acheve, et est donc toujours rendu accessible qu'au crepuscule de la realite qu'il encapsulait.
+
