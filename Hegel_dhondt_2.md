@@ -39,3 +39,8 @@ La formule *"Ce qui est rationel est reel, et ce qui reel est rationel"* a ete s
 
 ## L'action qui se retourne contre elle-meme et contre son acteur
 Hegel a de nombreuse reprises nous rappelle a cette observation que toute action est certe issut d'une intention particuliere d'un agent poursuivant un but qui lui/elle est propre. Neanmoins les consequences de ces actions depassent toujurs voir contredisent parfois ce que l'intention envisageait. Ces consequences involontaires forment un immense reseau de produits, d'oeuvres voir d'institutions qui jouent un role **plus** decisif que les actions volontaires.
+
+## La ruse de la raison
+Ce role decisif qu'identifie Hegel est permis par ce qu'il appelle la ruse de la raison qui va articuler ce reseau de consequences involontaires en un mouvement general de l'histoire. Ce caractere general de ces consequnces involontaires, rend ces derniere qualitativement differentes des resultat particuliers et deliberes issut de l'intention des individus mais intrasequement lies a ces intentions. Les deux forment les deux faces du mouvement de l'histoire et de fait se co-determinent l'une l'autre dialectiquement. Il en resulte que les hommes font leur histoire, mais ils ne la font pas intentionellement, rendant cette meme histoire etrangere a ses acteurs. Il y a donc la liberte pour l'homme de proposer, mais le mouvement general involontaire dispose en derniere instance. Le discernement de ce sens general n'est possible que par la methode dialectique qui va surmonter la contingence du particulier pour penetrer l'universel.
+
+## La raison gouverne le monde
