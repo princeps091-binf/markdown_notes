@@ -34,3 +34,8 @@ Le saut decisif dans l'effort d'intellection de la philosophie est la confrontat
 
 Enfin cet effort d'intellection ne murit qu'une fois le procesus historique acheve, et est donc toujours rendu accessible qu'au crepuscule de la realite qu'il encapsulait.
 
+## Le devenir rationel
+La formule *"Ce qui est rationel est reel, et ce qui reel est rationel"* a ete source de multiple interpretations clivantes. Neanmoins, il semble que le sens de cette soit a celui d'un reel en devenir et non un reel fige. Ce devenir implique donc bien un rationel evoluant de maniere a epouser tant bien que mal ce devenir.
+
+## L'action qui se retourne contre elle-meme et contre son acteur
+Hegel a de nombreuse reprises nous rappelle a cette observation que toute action est certe issut d'une intention particuliere d'un agent poursuivant un but qui lui/elle est propre. Neanmoins les consequences de ces actions depassent toujurs voir contredisent parfois ce que l'intention envisageait. Ces consequences involontaires forment un immense reseau de produits, d'oeuvres voir d'institutions qui jouent un role **plus** decisif que les actions volontaires.
