@@ -54,3 +54,4 @@ L'histoire est jalonee d'evenements marquant ce qui apparait comme des ruptures 
 
 ## La taupe
 Chez Hegel, l'illustration de ces changements imperceptible qui compose ce procesus de la Raison, c'est l'image de la Taupe. La Raison telle une Taupe va cheminer sous-terre et se deployer sans que rien ne l'indique a la surface mis a part les quelques taupinieres, etranges surgissement de ce procesus. De plus ce deploiement suit une logique qui articule ce qui apparait comme une succession d'evenements heteroclites en une totalite poursuivant un sens propre.
+
