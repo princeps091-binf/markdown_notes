@@ -45,3 +45,12 @@ Ce role decisif qu'identifie Hegel est permis par ce qu'il appelle la ruse de la
 
 ## La raison gouverne le monde
 La philosophie est la discipline ayant pour vocation de demontrer comment la Raison est la substance du reel et de son devenir. Cela implique aussi que la Raison englobe la totalite de ce devenir y compris ce qui semble etre son deploiement diversifiant/original dans l'histoire. Rien de son evolution ne lui est etranger. Cette totalisation du Reel par la Raison implique aussi une evacuation de l'espace laisse a la contingence pour pleinement saisir l'universel de la Raison. Souvent nous reduisons cet Raison a une perception subjective, particuliere et partiale de cet Universel. Objectivement la manifestation concrete de cet universel multiforme est le peuple (communaute politique?nation?)
+
+## L'universel se sert du particulier
+Chaque Homme ne sait exprimer qu'une volonte subjective/partiale se declinant par des desirs, passions, opinions, etc. Cette multitude de formes de la volonte sont autant d'outils de cette Raison universelle pour s'eveiller a elle-meme par la rationalite humaine. La raison accomplit cela par le biais de volonte particuliere d'individus sans que ces derniers n'en ait conscience. C'est cette instrumentalisation du particulier par l'Universelle qui reconcilie la Raison et le Sujet. L'horizon etant de tendre vers un alignement de ces volontes particulieres avec ce mouvement de la Raison.
+
+## La revolution silencieuse
+L'histoire est jalonee d'evenements marquant ce qui apparait comme des ruptures avec un deroulement "normal" du temps. Pourtant ces evenements ne sont que le point de surgissement d'un procesus compose d'une multitude de menu changements imperceptibles se faisant suite pour aboutir a ces fameuses ruptures. L'imperceptibilite de ces changements decisifs rend leurs historiographie d'autant plus dificiles car ils ne motiveront que tres une recension comme peuvent le faire des evenements de ruptures(revolution).
+
+## La taupe
+Chez Hegel, l'illustration de ces changements imperceptible qui compose ce procesus de la Raison, c'est l'image de la Taupe. La Raison telle une Taupe va cheminer sous-terre et se deployer sans que rien ne l'indique a la surface mis a part les quelques taupinieres, etranges surgissement de ce procesus. De plus ce deploiement suit une logique qui articule ce qui apparait comme une succession d'evenements heteroclites en une totalite poursuivant un sens propre.
