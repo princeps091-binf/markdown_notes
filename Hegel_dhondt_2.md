@@ -75,3 +75,6 @@ Les transitions menant aux differents moments de deploiement historique de laRai
 
 ## L'esprit ne concoit que l'esprit
 La progression de deploiement historique fait emerger des ruptures telles, que la capacite de comprendre concretement des etres existant a des stades anterieurs a ces ruptures est impossible. Cette impossibilite s'applique pour les animaux mais aussi pour les hommes d'une autre periode historique. Cette impossibilite appliquee aux hommes correspond a la tombe en desuetude de certaines institutions auparavant cruciale pour un peuple.
+
+## La critique est facile, la comprehension est difficile
+Le constat que notre realite n'arrive pas a remplir les ideaux du Bien, du Vraie ou du Meilleur, on peut resentir une forme d'injustice voir de desespoir. L'expression objective de la Raison universelle dans le monde ne peut etre saisie par la consideration empirique d'un individus particulier. D'ailleur la critique se concentrant sur les defauts des faits empiriques particuliers de maniere abstraite est un exercice facile, mais qui evacue l'analyse du principe articulant tous ces faits dans une totalite. Il est plus facile de trouver des defauts que de saisir la substance. Cette effort de saisie de la substance de la realite pose dans une lumiere plus fructueuse l'analyse du passe et mitige la desuetude de certains phenomenes anterieurs.
