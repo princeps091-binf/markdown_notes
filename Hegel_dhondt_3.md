@@ -1,0 +1,9 @@
+# L'Etat et la liberte
+## Le Divin sur la terre: l'Etat
+La vision sur l'Etat que porte Hegel peut paraitre assez desue aujourd'hui car il y voit une expression absolue de l'Esprit d'un peuple. Les evenements du XXeme et XXIeme siecle, marques par la radicalisation du neo-liberalisme et l'exacerbation de l'individualisme, viennent emettre des reserves sur cette apologie de l'Etat, car ils mettent en avant l'importance d'identifier au service de qui se met l'Etat.
+
+Neanmoins remis dans sa position historique cette apologie de l'Etat faite par Hegel est a contraster avec le regime feodal qu'il evacue. La transition vers un regime s'opposant a  l'arbitraire, la superstition et l'immobilisme de la feodalite offre une voies decidement progressiste.
+
+Pour Hegel l'Etat est la manifestation effective de l'idee portee par un peuple. Cet Etat peut trouver son expression immediate dans les moeurs en cours au sein du peuple et de maniere plus mediatisee en offrant aux membres de ce peuple les outils realisant la forme particuliere de la liberte portee par l'idee qui anime ce peuple. L'etat est l'elevation a l'universel de l'idee particuliere qui anime le peuple correspondant, il en devient aussi le moyen necessaire pour tout individu de ce peuple pour realiser la liberte portee par le peuple auquel il/elle appartient, d'ou la necessite d'adherer a l'Etat.
+
+Hegel dit que l'Etat est bien plus que la defense de la societe civile, qui d'elle-meme n'etant qu'une agglomeration d'interets prives subjectifs n'est pas en mesure de s'elever a l'universel. Cette notion elevee en principe ne mene qu'a une collection de contrats librement conscentis. L'universel de l'Etat est ce qui se degage de maniere presque inconsciente de la collection des volontes constitutives d'un peuple, c'est dans cette espace qu'opere la ruse de la raison guidant la conscience a soi de l'Esprit.
