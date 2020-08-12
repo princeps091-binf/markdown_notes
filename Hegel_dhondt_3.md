@@ -26,3 +26,6 @@ Neanmoins omettre dans l'evaluation du Droit les conditions d'existence de ceux 
 > S'il est quelque etat au monde ou chacun ne puisse pas vivre sans mal faire, ce n'est plus le malfaiteur qu'il faut pendre, c'est celui qui le force a le devenir
 
 ## La veritable liberte
+La Liberte ne consiste pas en l'opportunite de faire un choix entre une multitude d'options. Pour Hegel la Liberte correspond a l'oppose de la Necessite. La Necessite ici est a comprendre comme l'ensemble des intentions produites par les determinations qui nous sont imposees, tandis que la Liberte recouvre toutes les volontes qui sont produites par notre raison deliberee. La liberation consiste en l'union progressive de ces opposes et non la negation de l'une des deux (Nature= Necessite Pure, Utopie=Liberte Pure).
+
+## La Constitution representative
