@@ -9,7 +9,7 @@ Ce deploiement (l'esprit) n'est **pas** une pertpetuelle repetition (*l'eternel 
 
 - L'epanchement de l'ennui et de la frivolite dans tous les secteur de la vie
 - Pressentiment d'un inconnu qui s'approche
-- Emiettement progressig du montage dominant qui malgre tout semble tenir
+- Emiettement progressif du montage dominant qui malgre tout semble tenir
 
 ## L'ouverture d'esprit
 La discipline particuliere de la philosophie de Hegel se donne pour mission de dissequer ce mouvement (deploiement de l'esprit)et d'en faire son objet d'analyse pour accompagner consciement les renversements qui s'operent.
