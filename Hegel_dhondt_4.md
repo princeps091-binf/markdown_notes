@@ -13,4 +13,16 @@ Chez Kant la dialectique s'exprime par les antinomies de la raison, qui decrit c
 Ces differentes declinaisons de la dialectique viennent rejoindre l'intuition que tout ce qui est percut comme fixe et ferme a vocation a n'etre que passager et se renverser en son oppose. Ce mouvement peut etre observer dans toute une serie de domaine scientifique (naturel= mouvement des planetes, evolution des especes et humain= caducite des lois poussees a leur extreme).
 
 ## Scholastique figee
+Il y a une grande resistance a la methode dialectique dont l'intention est essentiellement une evacuation de l'heritage de Marx. Dans cet optique ces polemiqueurs adopte une version caricaturale de cette methode reduite a une suite schematique (these-antithese-synthese) qui sert d'homme paille dans leure entreprise.
 
+## Magie dialectique et totalitarisme
+Karl Popper ira jusqu'a denonce la dialectique comme etant a l'origine d'une doctrine ideologique irresponsable menant ce qui s'appelera le totalitarisme
+
+## Une dialectique dualiste
+Certains iront jusqu'a produire des contre-sens tels que la depiction de la dialectique comme un antagonisme inerte, ignorant de fait le moment de la negation de la negation decisif dans le mouvement dialectique.
+
+## Hegel-Marx
+D'autres nieront l'heritage Hegelien fondamental chez Marx, or sans cette methode dialectique toute la portee historicisee de la critique du capitalisme par Marx s'evanouie, evacuant de fait tout l'apport scientifique dans la comprehension de notre monde.
+
+## Le principe moteur interne de tout developpement c'est la dialectique
+Dans tout procesus concret (reel/effectif), le concept qui le decrit contient en germe toutes les determinations qui accompagne son developpement. La dialectique n'est pas une recherche stereotypee de la contradiction d'une proposition, qui seule ne serait pas en mesure d'unifier les differents moments du procesus. Seulement en visant a exprimer un concept qui en considerant une determination donnee n'y voit pas une limitation mais le moteur de son changement qui va characteriser la transition vers le resultat du procesus decrit. La Science n'aurait donc pour role que de constater et rendre intelligible les formes du concept permetant de rendre compte des determinations immanente au procesus decrit. Cet exercice n'est pas a identifier avec une recension exhaustive de determinations que l'on va dissoudre en les noyant dans une universalite inerte. Il faut aussi mettre en avant le charactere dual du concepts et de ses determinations dans leur existence ideelle et concretes. Autre consideration a avoir dans l'elaboration dialectique d'un concept c'est la configuration logique des determinations et des resultats et leurs emergences concretes observables. En effet, dans la description du mouvement d'un procesus, il est necessaire de soliciter des determinations dont la manifestation concrete/effective n'emergera que au cours du deploiement du procesus consideree.
