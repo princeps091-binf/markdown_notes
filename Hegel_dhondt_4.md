@@ -2,11 +2,11 @@
 
 Pour beaucoups la contribution decisive de Hegel reside dans son exposition de la Dialectique qui traverse toute son oeuvre. Une characterisitique de cette methode est sa dificulte qui vient heurter les modes de pensee traditionellement enseignes.
 
-Un propriete centrale de la dialectique est l'impermanence de tout ce qui parait separes, ainsi la dialectique est le mouvement perpetuel des termes en apparence separes passant l'un dans l'autre anime par la logique qui les regit. Cette conception vient faire la critique des postulats qui posent les differents termes les uns a cotes des autres sans les integrer comme different moment d'un meme mouvement. L'exemple typique est celui de l'homme auquel on va rajouter la propriete d'etre mortel. Pose ainsi il ne ressort pas que par le fait-meme de vivre l'homme tend a sa propre mort, et que cette propriete n'est pas un accessoire ajoute a l'etre de l'homme. La vie tient en elle le principe en germe de la mort. 
+Un propriete centrale de la dialectique est l'impermanence de tout ce qui parait separes, ainsi la dialectique est le mouvement perpetuel des termes en apparence separes passant l'un dans l'autre et anime par la logique qui les regit. Cette conception vient faire la critique des postulats qui posent les differents termes les uns a cotes des autres sans les integrer comme different moment d'un meme mouvement. L'exemple typique est celui de l'homme auquel on va rajouter la propriete d'etre mortel. Pose ainsi il ne ressort pas que par le fait-meme de vivre l'homme tend a sa propre mort, et que cette propriete n'est pas un accessoire ajoute a l'etre de l'homme. La vie tient en elle le principe en germe de la mort. 
 
 Cette methodologie n'est pas a confondre avec une forme de sophistique qui va extraire/abstraire les moments particuliers d'un mouvement pour ne mettre en exergue que les elements soutenant les interets particuliers de la position defendue. Au contraire la dialectique va ambitioner d'identifier la logique articulant tous les moments d'un mouvement (en soi et pour soi) et d'en characteriser les contours des determnations, et se faisant de reconcilier ces dernieres pour saisir le mouvement dans sa totalite.
 
-La methode dialectique trouve ses origines des la Grece Antique chez Platon et Socrate. Chez ce dernier, la dialectique prend la forme d'une itnerrogation visant a identifier tous les moments d'un raisonement pour en reveler la contradiction en germe avec les premises de ce meme raisonement. Chez Platon cette methodologie est appliquee sur un plan encore plus generale pour demontrer l'inter-penetration de toute notion issut de l'entendement.
+La methode dialectique trouve ses origines des la Grece Antique chez Platon et Socrate. Chez ce dernier, la dialectique prend la forme d'une interrogation visant a identifier tous les moments d'un raisonement pour en reveler la contradiction en germe avec les premises de ce meme raisonement. Chez Platon cette methodologie est appliquee sur un plan encore plus generale pour demontrer l'inter-penetration de toute notion issut de l'entendement.
 
 Chez Kant la dialectique s'exprime par les antinomies de la raison, qui decrit comment toute production abstraite de l'entendement tend a se renverser en son contraire lorsqu'elle est laissee seule par elle-meme.
 
@@ -16,7 +16,7 @@ Ces differentes declinaisons de la dialectique viennent rejoindre l'intuition qu
 Il y a une grande resistance a la methode dialectique dont l'intention est essentiellement une evacuation de l'heritage de Marx. Dans cet optique ces polemiqueurs adopte une version caricaturale de cette methode reduite a une suite schematique (these-antithese-synthese) qui sert d'homme paille dans leure entreprise.
 
 ## Magie dialectique et totalitarisme
-Karl Popper ira jusqu'a denonce la dialectique comme etant a l'origine d'une doctrine ideologique irresponsable menant ce qui s'appelera le totalitarisme
+Karl Popper ira jusqu'a denonce la dialectique comme etant a l'origine d'une doctrine ideologique irresponsable menant a ce qui s'appelera le totalitarisme
 
 ## Une dialectique dualiste
 Certains iront jusqu'a produire des contre-sens tels que la depiction de la dialectique comme un antagonisme inerte, ignorant de fait le moment de la negation de la negation decisif dans le mouvement dialectique.
@@ -38,3 +38,6 @@ Quand Hegel parle de dialectique il y a en realite un mouvement compose de trois
     
   La contradiction proprement dialectique est un depassement des determinations initialement identifiees en leure exacte oppose par l'experience-meme du mouvement du procesus considere.
 - **le cotes speculatif** (negation de la negation): En prenant conscience de l'unite des opposes des determinations identifiees, on peut saisir le mouvement du reel a un niveau plus concret qui permet d'interoger le procesus considere sur un plan plus general/universel ou plus effectif.
+
+## Toute determination est negation
+Si il y a une "totalite" de laquelle est derivee toute une series de parties determinees, ces dernieres en sont la negation. Ainsi une pensee bornee par l'entendement confondra les parties qu'il identifiera pour la realite (le tout). Or meme intuitivement nous avons conscience que une elaboration purement conceptuelle reflete une realite concrete qui echappe aux determinations exprimees par la pensee. Inversement la multitude des formes que peut prendre la realite peut etre reduite a une essence que l'on saurat identifiee avec son concept.
