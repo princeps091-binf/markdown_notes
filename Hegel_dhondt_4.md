@@ -89,7 +89,7 @@ Cette relation dialectique de l'Etre et du Neant avait deja ete theorisee par le
 
 Les propositions tautologiques suppriment la possibilite du devenir.
 
-En distinguant bien les abstractions de l'etre et du neant de leur existence concrete Hegel est en mesure de bien saisir la nature de la realtion d'identite effective entre ces notions issuent de l'entendement, qui sont reconcilies dans leur realite (dasein) par le devenir.
+En distinguant bien les abstractions de l'etre et du neant de leur existence concrete Hegel est en mesure de bien saisir la nature de la relation d'identite effective entre ces notions issuent de l'entendement, qui sont reconcilies dans leur realite (dasein) par le devenir.
 
 La nature primordiale de la contradiction de l'etre et le neant, rend toute proposition derivee tout autant contradictoire. Ainsi il en resulte la conclusion que tout le reel effectif est fondamentalement contradictoire. Ainsi l'intellection de ces contradictions est necessaire pour saisir pleinement la realite.
 
@@ -111,3 +111,22 @@ De ce developpement il decoule la conclusion que toute realite ne peut etre reel
 
 ## Ca saute
 Le commmencement represente un probleme epineux pour la logique formelle, qui ne supporte pas les discontinuites/surgissements. La logique formelle "resoud" ce probleme en considerant ces surgissements comme l'expression de changements cumulatifs imperceptibles jusqu'a cette interuption. Il n'y aurait ainsi que des changements de degres et non de nature. Ceci est contredit par l'observation de phenomene comme l'ebullition de l'eau qui montre bien la transition discontinue et immediate de l'etat liquide a l'etat gazeux. La logique ne comprend ce phenomene qu'en faisant la supposition que ce qui surgit etait deja present avant son apparition mais seulement dans une quantite trop petite pour etre observee. Ceci rend tout changement tautologique et donc steril car toujours declare fixe et a posteriori. Cete incongruaute met en lumiere la richesse de la notion du changement quantitatif declenchant un changement qualitatif. De plus ce procesus a tendance a convertir en leur contraire les proprietes etant affectees par ces changements quantitatifs.
+
+## L'interet reside dans le mouvement tout entier
+Le philosophe dans son effort d'intellection a la necessite de reinserer dans le mouvement d'ensemble la partie du tout, qu'il abstrait par l'entendeent, pour pleinement saisir le contenu de cette partie. Mais cela ne se reduit pas a simplement declarer la correspondence de la partie avec el tout de maniere inerte, au contraire il faut remplir cette relation avec le "dasein"/l'existant du phenomene qui a motive l'abstraction. Ce procesus de retour a la totalite de l'abstraction initiale est la garantie d'actualiser concretement la prehension de la realite. Ce procesus de retour/ancrage a la totalite (developement vivant de l'idee) est en derniere analyse le contenu concret de cette abstraction devenu concept car actualise par sa realisation effective dans la realite. Cette notion peut etre illustre par l'image du vieillard prononcant des liturgies a lumiere de son experience contraste a ces meme liturgies prononcees studieusement par un enfant. L'experience du premier vient rempir de son contenu des propositions qui pour el second reste exterieur a lui. La verite reside dans cet ancrage avec le concret des propositions presentees.
+
+## Naitre et perir
+L'importance donne a la constance du mouvement, n'indique pas une moindre valeur pour tout ce qui est im-permanent. Ce qui fut vrai se renverse en faux, ce "faux" originel n'etait donc pas exterieur a cette verite premiere. De meme ce vrai devenu faux ne doit pas etre evacuee, mais au contraire reinsere comme une etape du mouvement conret de la realite du phenomene qui est analyse.
+
+## Le procesus
+L'idee ou l'abstraction n'atteint sa realisation concrete que lorsqu'elle est consideree comme procesus contenant l'ensemble de ces moments. Ces differents moment indique comment l'abstraction par sa confrontation avec le reel, va se saisir de cette realite et non n'etre qu'une determination exterieure a elle.
+
+## Marcel Proust hegelien
+Dans un passage du *"Temps retrouve"*, y est decrit comment les strategies militaires evoluent en fonction des consequences inatendues des strategies precedentes. Ceci est un exemple de comment l'auto-mouvement/procesus de la pensee strategique force son propre deploiement.
+
+##  Lettre a un fabriquant de chapeau sur la dialectique du vrai et du faux
+La forme premiere de la verite est la religion qui par la croyance va consolider les acquis de la contingence. Mais cela ne serait suffir, la raison humaine requiert de  "voir avec les yeux de l'esprit", de connaitre et comprendre ces phenomenes qui nous determinent. Cette necessite nous amene a l'idee kantienne d'une pure subjectivite de la pensee (enfermee dans l'entendement). 
+
+Malgre l'aspect unilaterale de cette proposition, elle permet d'offrir une premiere definition de l'idee. Neanmoins, cette definition offre une description de l'idee comme inerte, alors que dans sa realite l'idee est un mouvement qui va soliciter une diversite d'abstraction en les articulant selon un procesus. La mauvaise action serait donc une activite en inadequation avec ce mouvement de l'idee qui la produite. 
+
+Ce procesus tend a renverser en leur contraires les differents moments qui le compose tout en elevant le champ de cette abstraction a l'universel. L'unite des contraires qui y est observee n'implique pas une identite figee entre eux, mais bien plus la saisi simultanee de la difference et l'identite de ces contraires (selon le champ ou l'on se place et si l'on considere cette relation comme un mouvement), ce qui donne le devenir pour le cas de l'etre et du neant.
