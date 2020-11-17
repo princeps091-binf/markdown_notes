@@ -10,13 +10,13 @@ La methode dialectique trouve ses origines des la Grece Antique chez Platon et S
 
 Chez Kant la dialectique s'exprime par les antinomies de la raison, qui decrit comment toute production abstraite de l'entendement tend a se renverser en son contraire lorsqu'elle est laissee seule par elle-meme.
 
-Ces differentes declinaisons de la dialectique viennent rejoindre l'intuition que tout ce qui est percut comme fixe et ferme a vocation a n'etre que passager et se renverser en son oppose. Ce mouvement peut etre observer dans toute une serie de domaine scientifique (naturel= mouvement des planetes, evolution des especes et humain= caducite des lois poussees a leur extreme).
+Ces differentes declinaisons de la dialectique viennent rejoindre l'intuition que tout ce qui est percut comme fixe et ferme a vocation a n'etre que passager et se renverser en son oppose. Ce mouvement peut etre observe dans toute une serie de domaines scientifiques (naturel= mouvement des planetes, evolution des especes et humain= caducite des lois poussees a leur extreme).
 
 ## Scholastique figee
-Il y a une grande resistance a la methode dialectique dont l'intention est essentiellement une evacuation de l'heritage de Marx. Dans cet optique ces polemiqueurs adopte une version caricaturale de cette methode reduite a une suite schematique (these-antithese-synthese) qui sert d'homme paille dans leure entreprise.
+Il y a une grande resistance a la methode dialectique dont l'intention est essentiellement une evacuation de l'heritage de Marx. Dans cet optique ces polemiqueurs adopte une version caricaturale de cette methode reduite a une suite schematique (these-antithese-synthese) qui sert d'homme de paille dans leure entreprise.
 
 ## Magie dialectique et totalitarisme
-Karl Popper ira jusqu'a denonce la dialectique comme etant a l'origine d'une doctrine ideologique irresponsable menant a ce qui s'appelera le totalitarisme
+Karl Popper ira jusqu'a denoncer la dialectique comme etant a l'origine d'une doctrine ideologique irresponsable menant a ce qui s'appelera le totalitarisme
 
 ## Une dialectique dualiste
 Certains iront jusqu'a produire des contre-sens tels que la depiction de la dialectique comme un antagonisme inerte, ignorant de fait le moment de la negation de la negation decisif dans le mouvement dialectique.
@@ -25,7 +25,7 @@ Certains iront jusqu'a produire des contre-sens tels que la depiction de la dial
 D'autres nieront l'heritage Hegelien fondamental chez Marx, or sans cette methode dialectique toute la portee historicisee de la critique du capitalisme par Marx s'evanouie, evacuant de fait tout l'apport scientifique dans la comprehension de notre monde.
 
 ## Le principe moteur interne de tout developpement c'est la dialectique
-Dans tout procesus concret (reel/effectif), le concept qui le decrit contient en germe toutes les determinations qui accompagne son developpement. La dialectique n'est pas une recherche stereotypee de la contradiction d'une proposition, qui seule ne serait pas en mesure d'unifier les differents moments du procesus. La dialectique consiste a exprimer un concept qui en considerant une determination donnee n'y voit pas une limitation mais le moteur de son changement qui va characteriser la transition vers le resultat du procesus decrit. La Science n'aurait donc pour role que de constater et rendre intelligible les formes du concept permetant de rendre compte des determinations immanente au procesus decrit. Cet exercice n'est pas a identifier avec une recension exhaustive de determinations que l'on va dissoudre en les noyant dans une universalite inerte. Il faut aussi mettre en avant le charactere dual du concept et de ses determinations dans leur existence ideelle et concretes. Autre consideration a avoir dans l'elaboration dialectique d'un concept c'est la configuration logique des determinations et des resultats et leurs emergences concretes observables. En effet, dans la description du mouvement d'un procesus, il est necessaire de soliciter des determinations dont la manifestation concrete/effective n'emergera que au cours du deploiement du procesus consideree.
+Dans tout procesus concret (reel/effectif), le concept qui le decrit contient en germe toutes les determinations qui accompagnent son developpement. La dialectique n'est pas une recherche stereotypee de la contradiction d'une proposition, qui seule ne serait pas en mesure d'unifier les differents moments du procesus. La dialectique consiste a exprimer un concept qui en considerant une determination donnee n'y voit pas une limitation mais le moteur de son changement qui va characteriser la transition vers le resultat du procesus decrit. La Science n'aurait donc pour role que de constater et rendre intelligible les formes du concept permetant de rendre compte des determinations immanente au procesus decrit. Cet exercice n'est pas a identifier avec une recension exhaustive de determinations que l'on va dissoudre en les noyant dans une universalite inerte. Il faut aussi mettre en avant le charactere dual du concept et de ses determinations dans leur existence ideelle et concretes. Autre consideration a avoir dans l'elaboration dialectique d'un concept c'est la configuration logique des determinations et des resultats et leurs emergences concretes observables. En effet, dans la description du mouvement d'un procesus, il est necessaire de soliciter des determinations dont la manifestation concrete/effective n'emergera que au cours du deploiement du procesus considere.
 
 ## La dialectique a proprement parler
 Quand Hegel parle de dialectique il y a en realite un mouvement compose de trois moments qui dans leurs basculement successifs determinent le procesus de conscientisation. Ces trois moments sont:
@@ -56,19 +56,19 @@ Ici nous amalgamons identite formelle analytique et identite dialectique du genr
 De meme la difference aura cette dualite (entendement et raison), pour la raison les differences sont des relations dans un monde rationel uni, tandis que pour l'entendement il n'y a qu'une collection discontinue et eclatee. Neanmoins sans difference les poles opposes des contraires ne pourraient pas exister. Ainsi l'entendement seul n'offre qu'une tautologie pour l'identite et un vide pour la difference. La raison par le biais de l'identite et de la difference dialectique permet la synthese des deux extremes issut de l'entendement. Il sagit de la mediation a l'Autre en tant qu'identite ET difference.
 
 ## Identite et contradiction
-Sans eliminer les principes fondamentaux de la logique formelle, la dialectique au contraire y insufler leur mouvement necessaire et ainsi plus concretement refleter le procesus en cours dans la pensee. La contribution majeure etant la rehabilitation de la contradiction comme moment necessaire pour la production de la pensee lorsqu'elle est confrontee au reel.
+Sans eliminer les principes fondamentaux de la logique formelle, la dialectique au contraire y insufle leur mouvement necessaire et ainsi peut concretement refleter le procesus en cours dans la pensee. La contribution majeure etant la rehabilitation de la contradiction comme moment necessaire pour la production de la pensee lorsqu'elle est confrontee au reel.
 
 ## Tout est contradictoire
 La contradiction, plus que l'identite posee par l'entendement, est decisive pour enclancher le mouvement de la pensee. Mais la contradiction est une propriete fondamentale de la realite elle-meme et non une contingence/anomalie de la pensee. L'enjeu etant de saisir la totalite de cette contradiction pour concretement suivre le mouvement du reel.
 
 ## La contradiction, la vie et l'idealisme
-La coincidence au sein de l'homme de l'unite de l'esprit d'une part avec la diversite des partis corps d'autre part est la demonstration de la place centrale que joue la contradiction dans la vie elle-meme. Surmonter en permanence cette contradiction et le moteur de la vie.
+La coincidence au sein de l'homme de l'unite de l'esprit d'une part avec la diversite des partis corps d'autre part est la demonstration de la place centrale que joue la contradiction dans la vie elle-meme. Surmonter en permanence cette contradiction est le moteur de la vie.
 
 ## Pousser la contradiction a bout
-Meme si la contradiction dans sa premiere enonciation est vide de contenu concret car ne collectionant que des indentites dont la relation est encore inerte, rechercher comment ces independants se polarisent pour enfin se contredire et le procesus necessaire pour pleinement saisir le mouvement du reel qui les porte,
+Meme si la contradiction dans sa premiere enonciation est vide de contenu concret car ne collectionant que des identites dont la relation est encore inerte, rechercher comment ces independants se polarisent pour enfin se contredire et le procesus necessaire pour pleinement saisir le mouvement du reel qui les porte,
 
 ## L'etre et le neant
-Cette relation est centrale dans la pensee de Hegel car elle encapsule les mouvements principaux du mouvemendevelopement dialectique. Il est malgre tout essentiel de bien saisir qu'il sagit de la dialectique des **abstractions** de l'etre et du neant et non celle de leur existence concrete (dasein).
+Cette relation est centrale dans la pensee de Hegel car elle encapsule les mouvements principaux du developement dialectique. Il est malgre tout essentiel de bien saisir qu'il sagit de la dialectique des **abstractions** de l'etre et du neant et non celle de leur existence concrete (dasein).
 
 Le premier moment consiste a identifier l'Etre comme le commencement de toute initiative philosphique totalisante. Cette abstraction "originel" de l'Etre est absolument in-determine afin d'englober toute la realite. Cette total indetermination identifie cette "Etre" avec le Neant, car comme lui ce dernier est aussi totalement in-determine. 
 
@@ -130,3 +130,11 @@ La forme premiere de la verite est la religion qui par la croyance va consolider
 Malgre l'aspect unilaterale de cette proposition, elle permet d'offrir une premiere definition de l'idee. Neanmoins, cette definition offre une description de l'idee comme inerte, alors que dans sa realite l'idee est un mouvement qui va soliciter une diversite d'abstraction en les articulant selon un procesus. La mauvaise action serait donc une activite en inadequation avec ce mouvement de l'idee qui la produite. 
 
 Ce procesus tend a renverser en leur contraires les differents moments qui le compose tout en elevant le champ de cette abstraction a l'universel. L'unite des contraires qui y est observee n'implique pas une identite figee entre eux, mais bien plus la saisi simultanee de la difference et l'identite de ces contraires (selon le champ ou l'on se place et si l'on considere cette relation comme un mouvement), ce qui donne le devenir pour le cas de l'etre et du neant.
+
+# L'idealisme
+
+## Le vrai est a la fois substance et sujet
+L'Absolu exrpime comme Esprit requiert d'avoir le vrai comme sujet et substance d'un systeme. Par Absolu on entend le concept le plus eleve qui contient toute notre realite dans son mouvement. L'Absolu est a la fois ce qui est en soi mais aussi les determinite de cet en-soi. Cet Absolu integre aussi cet "en-soi" exterieur a notre conscience, mais aussi tous les moments du procesus par lequel cet "en-soi" se converti en "pour-nous". La connaissance de ce procesus est la Science qui permet de saisir la realite de maniere effective.
+
+## L'imperialisme de la raison
+Pour Hegel, la Raison arme de la dialectique a la capacite de concretement aprehender la totalite de la realite sans faire de conscesion au mysticisme qui du temps de l'entendement unilateral (fixiste) pouvait pretendre a une place de choix pour les aspects de la realite dont les contradictions etaient insuportables pour l'entendement.
