@@ -134,7 +134,7 @@ Ce procesus tend a renverser en leur contraires les differents moments qui le co
 # L'idealisme
 
 ## Le vrai est a la fois substance et sujet
-L'Absolu exrpime comme Esprit requiert d'avoir le vrai comme sujet et substance d'un systeme. Par Absolu on entend le concept le plus eleve qui contient toute notre realite dans son mouvement. L'Absolu est a la fois ce qui est en soi mais aussi les determinite de cet en-soi. Cet Absolu integre aussi cet "en-soi" exterieur a notre conscience, mais aussi tous les moments du procesus par lequel cet "en-soi" se converti en "pour-nous". La connaissance de ce procesus est la Science qui permet de saisir la realite de maniere effective.
+L'Absolu exrpime comme Esprit requiert d'avoir le vrai comme sujet et substance d'un systeme. Par Absolu on entend le concept le plus eleve qui contient toute notre realite dans son mouvement. L'Absolu est a la fois ce qui est en soi mais aussi les determinite de cet en-soi. Cet Absolu integre aussi cet "en-soi" exterieur a notre conscience, mais aussi tous les moments du procesus par lequel cet "en-soi" se converti en "pour-nous". La connaissance de ce procesus est la Science qui nous permet de saisir la realite de maniere effective.
 
 ## L'imperialisme de la raison
 Pour Hegel, la Raison arme de la dialectique a la capacite de concretement aprehender la totalite de la realite sans faire de conscesion au mysticisme qui du temps de l'entendement unilateral (fixiste) pouvait pretendre a une place de choix pour les aspects de la realite dont les contradictions etaient insuportables pour l'entendement.
