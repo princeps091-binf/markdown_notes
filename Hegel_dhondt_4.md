@@ -153,3 +153,10 @@ Ce rapport passe par le moment de l'entendement qui poser des determinations de 
 L'emergence de la Raison dans une conscience a un moment donne de l'Histoire n'est pas accompagnee par tout le parcours qui l'a fait advenir. La configuration particuliere de la conscience et du monde a ce moment particulier de l'Histoire un donne immediat et non un devenu dialectique pour cette conscience nouvellement raisonnante. L'elevation a la comprehension effective de la realite n'est possible que lorsque ce cheminement historique est saisit par la conscience. Ce cheminement implique la mise en relation de ces consciences passees (avec leurs rapport singuliers avec le monde) dans leurs mouvements *sui generis*.
 
 ## Le systeme
+Toute explication visant a fidelement retranscrire le reel se doit d'englober la totalite de ces moments, incluant de fait les contradictions necessaires a son deploiement dialectique.
+
+Si l'on prend l'exemple des principes fondamentaux d'un enonce, ces derniers se feront confronter a leurs deficience des leurs inceptions, que ce soit concernant l'unilateralite de leur enonce vide de tout contenu concret car pas encore realise ou en ce qui concerne leurs contradictions produites par le mouvement meme du phenomene qu'ils aspirent a refleter.
+
+Ainsi il faut prendre ces enonces fondamentaux et leurs contradictions pour concretement saisir le contenu du reel et en comprendre le sens. Ces enonces contredits ne sont donc pas faux, car contredit mais seulement un commencement dont la contrdiction est necessaire. 
+
+Le recension de tous ces mouvements et l'intellection de l'orientation d'une telle sequence est le systeme apte a saisir le reel.
