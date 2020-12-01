@@ -160,3 +160,31 @@ Si l'on prend l'exemple des principes fondamentaux d'un enonce, ces derniers se 
 Ainsi il faut prendre ces enonces fondamentaux et leurs contradictions pour concretement saisir le contenu du reel et en comprendre le sens. Ces enonces contredits ne sont donc pas faux, car contredit mais seulement un commencement dont la contrdiction est necessaire. 
 
 Le recension de tous ces mouvements et l'intellection de l'orientation d'une telle sequence est le systeme apte a saisir le reel.
+
+## L'idee
+La reconciliation qui va totaliser toute la multitude par laquelle l'Esprit s'est particularise dans le reel constitue l'idee absolue. Un tel mouvement saisi de maniere partiale est disjointe par l'entendement et la logique formelle qui le regit apparait inintelligible. Seule la methode dialectique est a meme de fidelement se representer ce developpement.
+
+Le moment d'une telle reconciliation correspond a l'harmonie du concept (essence) avec le reel (etre-la), il sagit donc d'une realite en et pour-soi. 
+
+Cette harmonie ne doit pas etre confondu avec une representation precise d'un aspect particuliers que notre conscience percevrait. Il sagit bien plutot de saisir la totalite d'un phenomene articule par une raison guidee par les contradictions de son propre entendement.
+
+De meme cette idee absolue n'est pas figee mais en procesus de reconciliation, ainsi elle est pleinement impliquee dans les formes particulieres que prennent le reel sans s'y epuiser. L'idee absolue au commencement est substance du particulier mais est sujet de l'existence visant la reconciliation de la multitude.
+
+La realite n'est donc pas en dehors de l'idee au contraire, l'idee se projette dans le reel.
+
+## L'apotheose de l'idee
+Le mouvement du reel culmine pour Hegel en l'idee, ainsi cette notion a une position analogue a celle du Bien chez Aristote ou celle de Dieu chez Descartes.
+
+L'harmonie du concept et du reel realisee par l'idee absolue constitue l'aboutissement d'un long cheminement qui voit l'essence en mesure de rassembler l'ensemble des determinations de l'etre et ce dernier en mesure de se deployer sans jamais etre etranger au concept.
+
+La connaisance reflete un tel procesus qui voit une realite en soi (etrangere a la conscience) se convertir en une realite pour nous (familiere a la conscience), par le depassement permanent des abstractions produites par l'entendement. 
+
+La prise de conscience de ce mouvement pour la realite dans sa totalite constitue un eveil en mesure d'elever notre pensee de telle maniere que nous pouvons echapper a la detresse de la contingence et acceder a la paix du concept.
+
+## L'idee se decide a devenir nature
+Dans une telle ideologie la nature est l'expression particuliere de l'idee a un moment donne de son developpement. Cette projection ne refletant qu'une partie du mouvement elle ne demeure qu'un en-soi etranger a l'idee qui se reconcilie par la conscience.
+
+## Sur la tete
+Le geste Galileen qui a fonde la pensee scientifique represente un exercice particulierement perilleux pour la conscience. En effet cet effort requiert une contorsion de son mouvement spontane qui de prime abord ne semble pas offrir un benefice concret. Le procesus de theorisation apparaissant comme un arbitraire detache du reel, c'est seulement au moment ou ce detour opere une reconciliation avec le reel (par l'exerience) que l'elevation permise par la connaissance devenu delibere d'un phenomene est pleinement saisie.
+
+# Science, art et religion
