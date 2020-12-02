@@ -188,3 +188,10 @@ Dans une telle ideologie la nature est l'expression particuliere de l'idee a un 
 Le geste Galileen qui a fonde la pensee scientifique represente un exercice particulierement perilleux pour la conscience. En effet cet effort requiert une contorsion de son mouvement spontane qui de prime abord ne semble pas offrir un benefice concret. Le procesus de theorisation apparaissant comme un arbitraire detache du reel, c'est seulement au moment ou ce detour opere une reconciliation avec le reel (par l'exerience) que l'elevation permise par la connaissance devenu delibere d'un phenomene est pleinement saisie.
 
 # Science, art et religion
+## Plus ivre que Noe
+Dans son engagement avec une prise idealiste du monde Hegel s'est eventure a derduire des principes generaux de la dialectique le particuliers du monde physique. Ceci donne lieu a quelques passage etonants bien que aux faits des dernieres avances scientifique de son temps.
+
+## La vie
+Neanmoins une telle demarche s'est revelee particulierement pertinente lorsqu'elle s'addressait au domaine du vivant. En effet au cours de notre existence nous parcourons le temps et l'espace (differentes parties du corps) qui vont laisser leurs marques sur notre corps mais nous perpetuons concomitament notre subjectivite a travers ces moments. Cette constance du sujet a travers la multitude des formes que notre etre adopte est un echo saisissant avec le mouvement de l'Idee absolue a travers l'Etre-la. Cette pertinence du mouvement dialectique pour saisir l'impermanence du vivant suggere son utilite probable dans la Biologie.
+
+## Art, religion, philosophie
