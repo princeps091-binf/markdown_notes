@@ -60,8 +60,8 @@ Les critiques recurentes et pas totalement evacuees a l'heure actuelle:
 - La realite d'un deploiement a grande echelle possible (empreinte environementale, )
 - Encore a la merci des gouvernements et de leurs regulations pouvant promouvoir ou entraver l'adoption de cette technologie.
 
-## Notes de l'echange pour identifier les questions d'actualite touchant a la blockchain
-La discussion avec Zove et Frederic bouffetier a fair ressortir une serie d'evenement dans l'actualite dont la comprehension de la blockchin et ses enjeu permet de mieux saisir. En voici une liste non-exhaustive:
+## Notes de l'echange pour identifier les questions d'actualites touchant a la blockchain
+La discussion avec Zove et Frederic bouffetier a fair ressortir une serie d'evenements dans l'actualite pour lesquels la comprehension de la blockchain et ses enjeux permettent de mieux les saisir. En voici une liste non-exhaustive:
 - L'interet montant de la classe dirigeante pour cette technologie indique un risque d'instrumentalisation de cette technologie initialement pensee comme outil d'emancipation
     - Projet de crypto-monnaie par Facebook ou la BCE dont la vise de surveillance generalisee est a peine cachee.
 - Deploiement "progressistes" de ces technologie encore possible
