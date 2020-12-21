@@ -1,0 +1,19 @@
+# Hegel & Marivaux
+
+Il y a un parallele saisissant a tracer entre les personnages marivaudiens (Marianne de la vie de Marianne et Jacob du paysan parvenu en particulier) et la conscience Hegelienne, notament concernant le procesus que ces personnages entament dans leur developement respectif. Ces deux oeuvres racontent l'apprentissage de soi par lequel les protagonistes se decouvrent a eux-meme. 
+
+La decouverte perpetuel de soi produit un renouvellement constant de soi. Ce passage permanent ne doit pas etre confondu avec un errement ou un eparpillement disparate. Au contraire chacune des transitions est le fruit d'une auto-reflexion (introspection) visant a pleinement saisir/accepter les consequences de l'etape a venir et a les articuler comme un prolongement du cheminement accomplit jusqu'a present, chaque pas effectue par MArianne se doit de rester fidel a elle-mee. 
+
+Ce travail est une lutte intense contre la servilite, certes sans effusion de sang, mais qui ne manque neanmoins pas de ferocite. La tactique adoptee dans cette confrontation au monde et a soi requiert une agilite qui solicite la subtil choreographie de la dialectique qui indique les antagonismes majeurs permetant d'aopter la posture la plus effective face a l'alterite posee, pour surmonter les contradictions encore irreconciliees et s'affirmer en tant que conscience autonome. Un theme recurent qui characterise l'antagonisme pose et l'opposition entre la position basse/vile (valet de chambre hegel) et la position noble.
+
+Illustration du procesus dialectique contenu dans les personnages marivaudien= Marianne et M. de Climal:
+- Marianne lui est confie car elle est abandonne et vulnerable
+- Ce religieux hypocrite lui offre le salut et en attend une "juste" retribution
+- Au lieu d'accepter un tel contrat, Mariannce se revolte et prefere laisse ce comfort pour au contraire revendiquer "Plutot mourir que servir"
+
+Cet exemple illustre le degre d'engagement (jusqu'a la mort) de Marianne dans sa lutte pour la reconnaissance de sa dignite en tant que conscience/individu. Ce sacrifice ultime resonne avec le premier mouvement de la dialectique du Maitre et de l'esclave. L'ascension du parysan parvenu est un echo troublant du deuxieme mouvement de cette dialectique.
+
+Le discredit de l'ascetisme dans la Vie de Marianne met en lumiere son ineffectivite notament parcequ'elle place au dehors de soi l'objectif d'elevation de notre conscience. Cette duperie est de meme nature que celle contenu dans la notion de belle-ame characterise par un renoncement presque systematique. Mais a l'inverse de ce renoncement abstrait, dans le cas de Marianne on constate que les reoncements successifs sont autant de jalons dans le renoncement de sa propre illusion sur elle-meme et du progressif eveil a sa conscience de ce qu'elle est (son devenir). Une lecon fondamentale qui s'affrimera tout au long de ce cheminement est l'intrication profonde entre le devoir universel et le desir individuel, a cela vient s'ajouter le procesus de renversement lorsque le devoir universel est pousse a son extreme il en devient une jouissance individuel. Ce cette antagonisme permanent et de ce renversement systematique en son contrire lorsqu'un seul des extremes s'expriment, mais en lumiere un principe decisif chez hegel, a savoir l'indissociabilite des contraires. Cette reconciliation perpetuel des contraires est la pierre fondatrice du depassement de Kant par Hegel.
+
+De plus la forme de l'oeuvre la vie de Marianne adhere parfaitement a la mission de l'historien a l'echelle de la vie d'une femme. Il sagit de la recension en toute sincerite de tous les moments decisif mais a la lumiere d'une confession objectif faite a la fin de la vie de la protagoniste. Recapitulation de la succession des horizon qui se sont enchaines jusqu'a la fin enchasse dans un exercice d'introspection visant un salut. Une recapitulation et une construction simultanement. 
+
