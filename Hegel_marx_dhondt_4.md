@@ -1,4 +1,5 @@
 # L'appreciation de la guerre revolutionnaire par Hegel
+
 Hegel semble soutenir une forme de necessite voir de bienfait a la guerre qui a la lumiere des grandes semblent abjecte. Neanoins il faut replacer Hegel dans son moment historique pour y voir ce que represente la guerre a son epoque, notament sa porte emancipatrice dans la configuration reactionnaire de l'Allemagne du XIXeme.
 ## Hegel et Forster
 Cette elan pour les bienfait guerrier n'est cependant pas un alignement avec le discours dominant de l'epoque en atteste l'abscence de reprise de ces elements de l'ouvre de Hegel par les penseurs/influenceurs de son epoque. Pour Hegel, la guerre a un effet libatoire de purge des elements de notre societe qui se sont scleorose par l'extension d'un equilibre qui s'est transforme en stase. De la meme maniere que la surface d'un etang est renouvele par une brise/bourasque reguliere, notre societe pour maintennir sa saine animation doit ebranler les elements qui la composent. Ce genre de chamboulement a vocation a mobiliser les peuples impliques.
