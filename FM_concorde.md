@@ -53,3 +53,22 @@ Nous ferons deux emissions, une premiere consacree aux nationalisations et une d
     - Quel est l'etat actuel de la proposition economique de "gauche"
 
 6) 10-15min-Quelques mots de conclusion
+
+
+
+1) 5 à 10 min-présentation
+
+2) 20 à 30 min- Introduction au fonctionnement de l’activité bancaire
+    - Role des banques dans l'economie
+    - Comment la Banque cree des pret
+
+3) 20 à 30 min- La Monnaie enjeu politique: Pilotage des taux de change et directeur
+    - Inflation
+    - Credit
+
+4) 20 à 30 min-Les banques systémiques au cœur de la crise actuelle
+
+5) 20 à 30 min-La souveraineté des états, démocratie économique vs hégémonie du système financier. (De l’État qui planifie le crédit (30 glorieuses) aux crédits qui disciplinent les États (néo-libéralisme) (loi de 73, privatisation des investissements d'état)
+
+
+6) 5-10 min- conclusion, mot de fin d'émission.
