@@ -1,0 +1,80 @@
+# Echange avec Aurelien Catin
+- Gwen inge son - musicien -> intermittent du spectacle
+## intro
+- Membre Reseau Salariat
+- Auteur + Arts visuels 
+    -  2 grandes familles d'artistes
+        - en fn du regime social
+            - Intermittant ~ Regime general
+            - Artiste auteur ~ Securite social
+                - Pas d'assurance chomage
+    - relation au statut liberal?
+        - similaire a micro-entreprise
+        - 2 statut
+            - Proprietaire ~ droit d'auteur -> remuneration selon l'exploitation d'un patrimoine ~ rente
+            - Travailleurs/Salarie ~ activite accessoire -> atelier, table ronde, intervention -> facture -> acces a droit de la Secu
+- Artiste auteur une realite plurielle, reflet de la categorie fourre-tout
+    - debut d'abstraction de ce corps en tant que "classe" de travailleur avec interet partage
+- Intermitant du spectacle
+    - Bilan du 1er confinement
+        - 16 Mars annonce par Macron
+            - Effondrement du secteur = bouclage des lieux de valorisation de la marchandise culturelle
+            - Effet a geometrie variable
+                - micro-entrepreneur + artiste auteur
+                    - a poil -> pas d'activite pas de revenu (pas d'utilisation du droit d'auteur)
+                    - petite aide addosse au soutien aux TPE-PME
+                    - Coherent avec notion de valorisation si contribu a realisation d'un profit capitaliste
+                - Chomage partiel pour intermitants -> 84% du salaire normal -> paye par caisse de l'assurance chomage
+                    - Droit au salaire independant de l'activite
+                - Fonctionnaires -> aucune difference car salaire attribut de la personne et pas du poste
+            - Intermitance -> embryon du salaire a la personne a etendre aux artistes auteurs
+                - salaire verse hors de l'emploi grace aux caisse finance par la cotisation
+                    - SQ = conditione (507 heures dans la derniere annee -> champs de lutte car barriere a l'acces pour ce droit) + limite dans le temps
+                    - Revendication des saisoniers + Coordination des intermitants et precaires
+                - 58 = assurance chomage cree comme prolongement de la securite sociale ouvert aux intermitant grace aux annexes 8 et 10 
+                    - UNEDIC -> socialisation du chomage par la cotisation -> continuation du salaire pendant el chomage
+                    - 79 inclusion des travailleurs du spectacle dans ce regime
+                    - 84 victoire du patronat qui cree l'intermitance
+                        - UNEDIC + Assistance publique
+                            - evacuation des chomeurs longue duree de l'UNEDIC qui va recouvrir beaucoup d'intermitants du spectacle
+                                - Pas percut comme conquete, mais realise le salariat hors de l'emploi pour beaucoup de precaires du spectacle
+- Amazon ~ Uber
+    - Quelques licornes -> 1/15000000
+    - Retour a la remuneration a la piece
+        - Ca ne fonctionne pas 
+        - Exemple de la presidente de la Charte
+            - va chez Amazon -> aucune independance effective
+    - Degenerence du model economique classique avec une reconnaissance inacceptable
+        - < 10% du prix final
+        - co-optation
+- element declencheur
+    - travail gratuit institutionalise
+        - ouvrage collectif meme dans les grandes maisons
+        - 50 % des plasticiens < 9000 euros par an -> RSA, petit boulot, solidarite familiale
+        - tres grosses precarite parmis auteurs -> 75% au RSA pour auteur BD
+            - dependant de la valorisation marchande d'une oeuvre
+        - Collectif d'artistes -> quelle possibilite de mutualisation de la valeur ajoutee produite?
+            - Horizon = salaire a la qualification personelle et re-configuration de l'organisation du travail promouvant la gestion par les travailleurs
+                - Securite social par secteur
+                    - Alimentation
+                    - Culture
+                    - Sante
+                - socialiser notre financement ~ Deja la par le financement publique
+                - socialiser notre valorisation ~ Deja la si on reduit le seuil a 0 heure pour acceder au droit a l'assurance chomage des intermitants
+                    - conventionnement
+
+- Exploitation des auteurs
+    - Propriete intellectuel
+        - droit moraux -> reconnaissance, inalienabilite
+        - droit patrimoniaux -> tire un revenu de l'exploitation marchande
+            - peut etre ceder/confier a un distributeur pour la valoriser
+
+- Supprimer le regime des intermitants pour echapper a la precarite imposee car a la chasse aux heures -> enjeu de lutte pour ne pas tomber dans l'auto-entreprenariat
+- Chez les jeunes plasticiens, rejet de la figure romantique puissance creatrice autonome qui peut en vivre par la rente 
+    - Adoption d'une pratique collective par necessite
+    - Deja-la de la cotisation qui n'ouvre aucun droit pour l'instant
+- Financement
+    - Institutions = Ministere + ecole d'art
+    - Prive = Fondation, Mecene, etc
+- Pierre Rimbert https://www.monde-diplomatique.fr/2014/12/RIMBERT/51030
+- organisation = La BUSE / Art en greve
