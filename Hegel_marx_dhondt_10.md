@@ -8,5 +8,20 @@ Dans cet exercice de reconciliation organique des differents moments qui constit
 Les elements constitutifs de la contradiction principale qui animent un moment historique ne sont rendus intelligibles qu'une fois suffisament deployes malgre que leurs effets sur le cours de l'histoire soient realises bien en amont. Donc cette succession, plus qu'un deplacement est une mise a bas avec une cohesion d'ensemble malgre les discontinuites qualitative que peuvent subir les differents elements consitutifs dans leur rapport au monde. Les moments successifs ne sont pas etrangers les uns des autres mais au contraire se tiennent comme les maillons d'une filiation, avec chaque moment engendrant et preparant son evacuation par son successeur.
 
 ## La dialectique de Hegel et de Marx
+Malgre une filiation assume vis-a-vis de Hegel, Marx s'en fait un critique radical en refusant la base idealiste de la proposition Hegelienne. Cette refondation n'implique pourtant pas un abandon total du travail fourni par Hegel, il faut y voir une re-appropriation critique de ses elements les plus feconds et compatible avec le materialisme. On doit ici noter la methode dialectique qui va etre le noyau central de cette refondation materialiste de la proposition helgelienne operee par Marx. Cette refondation va forcer Marx a alleger et re-configurer la declinaison originale de la dialectique.
 
+Cette refondation correspond conretement a un renversement de la dialectique hegelienne. Il decoule d'un tel geste une inversion du sens des rapports principaux qui articulent les moments qui constituent le deploiement dialectique. On peut se representer un tel geste comme le doigt d'un gant que l'on va retourner. Il ne sagit pas d'une simple translation de la base, mais bien plutot d'une reconfiguration profonde de l'edifice dialectique hegelien qui, tout en gardant la forme globale, va articuler ses moments constitutifs de maniere inversee.
+
+Une composante essentielle presente dans les deux dialectique est le moment revolutionnaire qui exprime l'essence contradictoire qui anime les deux dialectiques.
+
+## La Dialectique specifique de l'histoire selon Hegel et Marx
+La dialectique prend des formes variees en fonction du domaine ou elle se deploie. Dans cet esprit on distingue souvent la dialectique de la nature de la dialectique de l'histoire.
+
+Chez Hegel et Marx, la distinction entre ces deux formes de dialectique est conditionee par les connaissances scientifiques de leur temps respectifs et par leurs bases respectivement idealiste et materialiste. Malgre ces differences decisives, tous les deux affirment al difference essentielle entre la dialectique de la nature et la dialectique de l'histoire.
+
+De maniere assez brutale, on peut dire que pour Marx la difference majeure entre la dialectique de la nature et la dialectique de l'histoire consiste en:
+
+> L'histoire humaine se distingue de l'histoire de la nature du fait que nous avons fait la premiere mais pas la seconde.
+
+De cette proposition decoule la necessite de definir ce qui distingue l'homme de la nature. C'est ici que l'on doit introduire la conscience humaine comme composante essentielle et propre a l'action de l'homme. Cette conscience permet a l'homme de s'ouvrir un choix delibere qui deborde le champs strict de la necessite.
 
