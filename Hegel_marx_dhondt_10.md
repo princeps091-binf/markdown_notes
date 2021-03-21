@@ -25,3 +25,25 @@ De maniere assez brutale, on peut dire que pour Marx la difference majeure entre
 
 De cette proposition decoule la necessite de definir ce qui distingue l'homme de la nature. C'est ici que l'on doit introduire la conscience humaine comme composante essentielle et propre a l'action de l'homme. Cette conscience permet a l'homme de s'ouvrir un choix delibere qui deborde le champs strict de la necessite.
 
+Cette categorie de necessite peut elle-meme etre divisee entre necessite consciente et necessite aveugle. Ces deux formes de necessites vont produire deux formes de dialectique; la dialectique de l'histoire viendra se nicher comme troisieme termes qui incorporera des proprietes de l'une et l'autre forme s de dialectique. Ainsi on se retrouve avec trois grandes formes de dialectiques: Consciente, Aveugle et Historique (du depassement).
+
+Si l'on considere maintenant le contenu des ces differentes dialectique pour Hegel et Marx on peut noter:
+
+La dialectique de la Nature/Aveugle:
+- Chez Hegel: dialectique a dominante repetitive ponctue d'accidents inconsequents
+    - au pire: simple mouvement mechanique/repetition perpetuelle
+    - au mieux: reigne de la contingence realisee par les aleats de l'individus organique qui ne modifie pas son genre.
+    - Fonctionement cyclique qui peut etre ponctue par des accidents inconsequents
+- Chez Marx: dialectique a dominante evolutive decoree de cycles spontanees
+    - Contribution de la proposition Darwinienne
+
+La dialectique consciente:
+- Son domaine n'est accessible qu'une libere de l'angoisse de la survie, moment ou la liberte peut se deployer.
+    - Chez Marx un telle dialectique ne s'est pas encore realisee pour el genre humain dans son ensemble du fait du regime d'exploitation qui anime nos societes.
+        - L'esthetique et la technologie nous en font avoir un avant-gut parcelaire
+        - Cette dialectique se base sur l'activite humaine qui modifie la nature selon sa volonte, court-circuitant certains moments de la dialectique aveugle
+    - Les contours de cette dialectique dessinee par Hegel en represente un forme de premonition
+
+La dialectique de l'histoire
+- L'histoire commence par l'action deliberee des individus pour Hegel comme pour Marx
+- Neanmoins pour tous les deux cette action produit des effets largement innatendus et debordant l'intention des individus qui la realise. Cet inconscient s'en retrouve a determiner le cours du deploiement hsitorique. Neanmoins, les effets d'une histoire humaine avec la memoire et le souvenir sur une conscience dotee d'une liberte d'action sont d'un autre ordre que les mutation spontanee de l'ADN.
