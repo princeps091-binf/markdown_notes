@@ -1,80 +1,47 @@
 # Echange avec Aurelien Catin
-- Gwen inge son - musicien -> intermittent du spectacle
+
 ## intro
-- Membre Reseau Salariat
-- Auteur + Arts visuels 
-    -  2 grandes familles d'artistes
-        - en fn du regime social
-            - Intermittant ~ Regime general
-            - Artiste auteur ~ Securite social
-                - Pas d'assurance chomage
-    - relation au statut liberal?
-        - similaire a micro-entreprise
-        - 2 statut
-            - Proprietaire ~ droit d'auteur -> remuneration selon l'exploitation d'un patrimoine ~ rente
-            - Travailleurs/Salarie ~ activite accessoire -> atelier, table ronde, intervention -> facture -> acces a droit de la Secu
-- Artiste auteur une realite plurielle, reflet de la categorie fourre-tout
-    - debut d'abstraction de ce corps en tant que "classe" de travailleur avec interet partage
-- Intermitant du spectacle
-    - Bilan du 1er confinement
-        - 16 Mars annonce par Macron
-            - Effondrement du secteur = bouclage des lieux de valorisation de la marchandise culturelle
-            - Effet a geometrie variable
-                - micro-entrepreneur + artiste auteur
-                    - a poil -> pas d'activite pas de revenu (pas d'utilisation du droit d'auteur)
-                    - petite aide addosse au soutien aux TPE-PME
-                    - Coherent avec notion de valorisation si contribu a realisation d'un profit capitaliste
-                - Chomage partiel pour intermitants -> 84% du salaire normal -> paye par caisse de l'assurance chomage
-                    - Droit au salaire independant de l'activite
-                - Fonctionnaires -> aucune difference car salaire attribut de la personne et pas du poste
-            - Intermitance -> embryon du salaire a la personne a etendre aux artistes auteurs
-                - salaire verse hors de l'emploi grace aux caisse finance par la cotisation
-                    - SQ = conditione (507 heures dans la derniere annee -> champs de lutte car barriere a l'acces pour ce droit) + limite dans le temps
-                    - Revendication des saisoniers + Coordination des intermitants et precaires
-                - 58 = assurance chomage cree comme prolongement de la securite sociale ouvert aux intermitant grace aux annexes 8 et 10 
-                    - UNEDIC -> socialisation du chomage par la cotisation -> continuation du salaire pendant el chomage
-                    - 79 inclusion des travailleurs du spectacle dans ce regime
-                    - 84 victoire du patronat qui cree l'intermitance
-                        - UNEDIC + Assistance publique
-                            - evacuation des chomeurs longue duree de l'UNEDIC qui va recouvrir beaucoup d'intermitants du spectacle
-                                - Pas percut comme conquete, mais realise le salariat hors de l'emploi pour beaucoup de precaires du spectacle
-- Amazon ~ Uber
-    - Quelques licornes -> 1/15000000
-    - Retour a la remuneration a la piece
-        - Ca ne fonctionne pas 
-        - Exemple de la presidente de la Charte
-            - va chez Amazon -> aucune independance effective
-    - Degenerence du model economique classique avec une reconnaissance inacceptable
-        - < 10% du prix final
-        - co-optation
-- element declencheur
-    - travail gratuit institutionalise
-        - ouvrage collectif meme dans les grandes maisons
-        - 50 % des plasticiens < 9000 euros par an -> RSA, petit boulot, solidarite familiale
-        - tres grosses precarite parmis auteurs -> 75% au RSA pour auteur BD
-            - dependant de la valorisation marchande d'une oeuvre
-        - Collectif d'artistes -> quelle possibilite de mutualisation de la valeur ajoutee produite?
-            - Horizon = salaire a la qualification personelle et re-configuration de l'organisation du travail promouvant la gestion par les travailleurs
-                - Securite social par secteur
-                    - Alimentation
-                    - Culture
-                    - Sante
-                - socialiser notre financement ~ Deja la par le financement publique
-                - socialiser notre valorisation ~ Deja la si on reduit le seuil a 0 heure pour acceder au droit a l'assurance chomage des intermitants
-                    - conventionnement
+Aurélien Catin est auteur, membre du collectif La Buse et de l’association d’éducation populaire Réseau Salariat.
 
-- Exploitation des auteurs
-    - Propriete intellectuel
-        - droit moraux -> reconnaissance, inalienabilite
-        - droit patrimoniaux -> tire un revenu de l'exploitation marchande
-            - peut etre ceder/confier a un distributeur pour la valoriser
+### Contexte de pandemie comme revelateur des lacunes du statu-quo
+Pour saisir concretement la realite des artistes-auteurs en France, un bref Bilan du 1er confinement sur la situation de ces travailleurs permet d'identifier les difficultes principales de leur condition. En effet cette crise a ete comme un exhausteur des differences arbitraires qui les distinguent d'autres travailleurs de la culture que sont les intermittents du spectacle ou les fonctionnaires. 
 
-- Supprimer le regime des intermitants pour echapper a la precarite imposee car a la chasse aux heures -> enjeu de lutte pour ne pas tomber dans l'auto-entreprenariat
-- Chez les jeunes plasticiens, rejet de la figure romantique puissance creatrice autonome qui peut en vivre par la rente 
-    - Adoption d'une pratique collective par necessite
-    - Deja-la de la cotisation qui n'ouvre aucun droit pour l'instant
-- Financement
-    - Institutions = Ministere + ecole d'art
-    - Prive = Fondation, Mecene, etc
-- Pierre Rimbert https://www.monde-diplomatique.fr/2014/12/RIMBERT/51030
-- organisation = La BUSE / Art en greve
+L'effondrement du secteur de la culture qui a suivi l'annonce du 1er confinement le 16 Mars 2020 par Macron a prive les artistes-auteurs des lieux principaux ou ils pouvaient materialiser le fruit de leur travail (librairies, galleries d'art, etc). En effet, cette crise sanitaire les a litteralement "mis a poil" car leur droits d'auteur venaient de perdre les lieux principaux ou ils pouvaient se faire valoriser par la vente (livres, pieces d'art, etc). Ces artistes-auteurs ont certes put soliciter les quelques aides en soutien des TPE-PME, mais ces dernieres ne sauraient compenser les dommages subis suite a ce confinement.
+
+Cette situation est a contraster avec ce qu'ont put vivre les intermittents du spectacles qui ont put se rabattre sur un chomage partiel leur donnant droit a 84% d'un salaire normal malgre l'arret du gros de leur activite. Les fonctionnaires ont sut encore mieux surmonter cette epreuve car le salaire de ces derniers est completement detache de leur activite concrete et ont donc put percevoir un salaire complet. On peut constater la superiorite de ces regimes ou le droit au salaire est independant de l'activite (intermittents et fonctionnaires) pour surmonter les crises et autres aleats de la realite de l'activite culturelle.
+
+## La realite particuliere des Artistes-auteurs
+Cette vulnerabilite des artiste-auteurs face a cette crise sanitaire est le produit d'un procesus historique qui a vu se telescoper deux conceptions antagoniques de l'artiste. L'une basee sur le travail quotidien realise par tout artiste et une autre conception basee sur un mythe de l'artiste solitaire et inspire, rentier de sa creativite. Ces deux conceptions sont necessaires pour recouper la realite actuelle des artiste-auteurs. En effet d'un certain cotes les artistes jouissent d'un droit a la propriete sur leur oeuvre (droit d'auteur), qui leur permet de jouir des fruits de l'exploitation de ce patrimoine. D'un autre cotes le travail des artiste-auteurs incluent aussi toute une serie d'activites comme les atelier, tables rondes et autres interventions pour lesquels ils sont aussi remuneres. 
+
+Au jour d'aujourd'hui, la conception patrimoniale du droit d'auteur determine principalement le cadre dans lequel les artiste-auteurs operent, ce qui peut expliquer l'integration partiale de cette profession au sein de la Securite sociale. En effet les artistes-auteurs sont affilies au regime general pour les assurances sociales et les prestations familiales, mais n'ont pas acces a l'assurance chomage.
+
+Cette conception patrimoniale des artiste-auteurs tout en etant dominante, ne reflete pourtant pas la realite de l'exploitation que subit la grande majorite d'entre eux, les rattachant ainsi bien plus a la condtion de travailleur sur-exploite qu'a celle de petit proprietaire. En effet ce qu'omet la conception patrimoniale de la condition d'artiste-auteur c'est la dependance de ces derniers a des distributeurs pour toucher un publique qui par sa consomation permetra a la valeur de ce patrimoine de se realiser. Ainsi il est necessaire de dissoudre l'amalgame entre droit moral d'une oeuvre qui reconnait la singularite de l'oeuvre produite par un artiste-auteur et le droit patrimonial qui va determiner l'existence de l'oeuvre comme marchandise. Ce droit patrimonial ne peut etre concretiser que grace a l'infrastructure de distributeurs (librairies, galleries, festivals, expositions, etc) a meme d'atteindre le public sensible a cette production artistique.
+
+Actuellement ces moyens de distributions sont concentres en un petits nombre d'acteurs qui dominent le secteur. Cette configuration va poser un rapport de force largement a la defaveur des artiste-auteurs qui devront se soumettre aux conditions de ces grands distributeurs lorsqu'ils leur cederont leur droit d'auteurs pour valoriser leur creation. Pour illustrer les consequences de ce rapport de force inegale, on peut noter la part que represente la remuneration des auteurs pour un livre, souvent bien en deca de 10%, ou encore la co-optation nepotique qui va determiner qui sera publie ou expose au grand public. Cette sur-concentration affecte aussi bien le domaine publique domine par des institutions comme le CNC ou le Centre national du livre, que le domaine prive domine par les fondations de mecenes amateur de virtuosite esthetique et fiscale.
+
+De cette configuration tres desequilibre decoule aussi l'instauration d'un travail gratuit institutionalise pour la grosse majorite des artiste-auteurs, qui fourniront une quantite de travail dont la conversion en revenu sera dictee par les interets de ce petit groupe de grands distributeurs. Ainsi nous nous retrouvons avec 50 % des plasticiens touchant moins de 9000 euros par an ou encore 75% des auteurs de BD au RSA, qui sont des exemples parmi d'autre de l'extreme precarite qu'impose le rapport de force actuel dans le secteur de la culture. 
+
+Certains voudraient mettre en avant les fameuses plateformes numeriques, tel que Amazon, comme echapatoire a cette exploitation "traditionelle". Malgre les chimeriques success story, mises en avant par la communication ludique et disruptive de ces plateformes, il sagit bien d'une regression encore plus violente vers un travail a la tache soumis a l'arbitraire d'algorithmes visant avant tout l'ecoulement d'une sur-production plus que l'eveil et l'epanouissement de notre societe.
+
+## Se re-approprier et depasser l'intermitence
+Cette realite de la condition des artiste-auteurs pose le statut des intermittents du spectacle comme un horizon necessaire a saisir pour prolonger le mouvement d'extension des libertes des travailleurs portes par le mouvement ouvrier tout au long de sa lutte historique pour depasser son exploitation. Un objectif possible qui pourrait animer cette re-appropriation de notre heritage social est la notion de salaire a la qualification attachee a la personne, aujourd'hui porte par l'oeuvre de Bernard Friot. En effet l'intermittence represente un embryon de cette proposition est contient en elle tout les elements decisifs pour une re-appropriation de la valeur ajoutee produite par les travailleurs pour les travailleurs. Pour s'en convaincre un petit retour historique sur la creation de ce regime peut permettre d'eclairer ces notions. 
+
+En 1958 l'assurance chomage (UNEDIC) est creee comme un prolongement de la securite sociale ouvert aux intermittents grace aux annexes 8 et 10. L'UNEDIC represente une socialisation du risque de perte d'emploi en garantissant la continuation du salaire pendant le chomage grace au mechanisme de la cotisation. 1979 verra l'inclusion des travailleurs du spectacle dans ce regime, qui a requis le depassement *d'obstacles juridiques, politiques et même philosophiques, depuis la rédaction de contrats-types jusqu’au vote d’une présomption de salariat, pour prétendre à un régime d’indemnisation du chômage aussi robuste que celui de l’Unédic. Leur force aura été de s’organiser selon des modalités d’action collective qui font défaut aux plasticien·es et aux écrivain·es aujourd'hui*. 1984 verra la creation du regime de l'intermittence qui apparu originellement comme une victoire du patronat. En effet ce regime fut initialement mis en place pour evacuer des chomeurs longue duree de l'UNEDIC. Neanmoins le cadre pose par ce nouveau regime a recouvert beaucoup de travailleurs intermitants du spectacle precaires et leur donnera acces a de nouveaux droits sociaux. Ainsi de maniere innatendue cette initiative realisera partiellement le salariat hors de l'emploi pour beaucoup de precaires du spectacle.
+
+Ce salaire hors de l'emploi est une reelle conquete pour la classe laborieuse du spectacle. Son financement par la cotisation et sa gestion par des caisses administrees par les travailleurs eux-meme constituent la reconnaissance de la valeur ajoutee produite par ces travailleurs en tant que commun. Cette mutualisation de la valeur economique garanti pour les travailleurs et leur famille la prise en charge socialisee des risques de toute nature, susceptibles de réduire ou de supprimer leur capacité de gain et d'acces a une qualite de vie digne.
+
+Neanmoins, cette conquete est depuis sa creation mise a mal par une classe dirigeante etrangere a ces ideaux progressistes. Ainsi on constate aujourd'hui un durcissement des critères d’accès a ces régimes (validation de 507 heures dans la derniere annee, limitation de ces droits dans le temps) et un assechement du financement par la cotisation pour le suppleer par la fiscalite et ainsi mettre l'Etat (instrument de la classe dominante) en charge de cette institution.
+
+L'aprete de cette lutte creera deux reactions: une premiere qui voudra supprimer le regime des intermitants pour echapper a la detresse imposee par les conditions arbitraires d'acces aux droits. Une seconde visant a re-affirmer la necessite de ce droit et a l'etendre a de nouveaux travailleurs (saisoniers).
+
+Neanmoins, Aurelien constate chez les jeunes plasticiens un rejet de la figure romantique de l'artiste comme puissance creatrice autonome qui peut en vivre par la rente. On observe la constitution de collectif d'artistes adoptant une pratique collective de leur travail. Bien que force par la necessite vers ces modes collectifs d'organisation, ce glissement change en profondeur les aspirations et les ideaux de cette nouvelle generation et rend plus actuel que jamais cet heritage progressiste que sont les regimes sociaux de notre Securite sociale.
+
+Cette conception de l'Artiste, comme contributeur d'une oeuvre collective, vient de-mystifier la conception individualiste et au final assez bourgeoise qui domine encore l'image de l'Artise dans nos societes. Cette composante collective et cet anchrage dans l'heritage social de notre societe met d'autant plus en lumiere l'importance que joue l'activite artistique comme instrument d'emancipation politique. 
+
+Dans cet effort de re-appropriation et de depassement de l'intermittence, Aurelien Catin ouvre un chemin pour concretement realiser un salaire a la qualification personelle avec la re-configuration profonde de l'organisation du travail qu'il implique, promouvant la gestion par les travailleurs dans le secteur de la culture. Cette proposition, tout en etant original, s'inscrit dans le sillage du mouvement plus large porte par Reseau Salariat qui vise la declinaison de cette logique dans tous les secteurs de la societe (Alimentation, Culture, Sante, etc). Dans ce meme esprit mais dans le secteur du journalisme on peut noter la proposition de Pierre Rimbert (https://www.monde-diplomatique.fr/2014/12/RIMBERT/51030).
+
+En plus de cette articulation avec Reseau Salariat, le corps des artistes-auteurs commence a s'organiser pour pleinement exister comme sujet politique a part entiere dans le paysage politique. Dans cet effort on peut noter l'organisation La Buse:
+
+> Constatant la récurrence systémique d’abus en tout genre dans le champ de l’art, La Buse s’est constituée non seulement pour faire des propositions permettant d’améliorer les conditions des travailleur·euse·s de l’art, mais aussi pour aider ces mêmes personnes à faire valoir leurs droits. La Buse œuvre à la reconnaissance d’un statut pour les travailleur·euse·s de l’art en proposant une série de revendications et en développant plusieurs outils, dont une plateforme de visibilisation des pratiques abusives.
+
+Cette organisation jette les bases d'un procesus de conscientisation necessaire pour surmonter les contradictions et l'exploitation qui broient les artiste-auteurs aujourd'hui.
