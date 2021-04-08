@@ -1,0 +1,35 @@
+# Parti de Classe tome 1: Introduction
+## Theorie marxiste du parti
+Le parti etant un organe de classe, il convient de cerner a quoi correspond une classe sociale. 
+- Pour la conception bourgeoise neo-kantienne, une classe sociale est avant tout un segment de la societe que l'on identifie a l'aide de proprietes prise a un moment donne de son histoire. Cette representation instantannee de note communaute politique va ensuite faire l'objet d'innombrables analyses statistiques pour y deceler milles segments echelones de maniere arbitraire.
+    - Photo
+- Pour la conception dialectique materialiste (Marxiste), ce n'est pas tant les details d'une representation figee de notre societe que les evolutions des rapports entre ses differentes composantes au cours du temps qui vont dessiner les contours des ensembles antagoniques (classes) qui animent ce mouvement historique.
+    - Film
+
+Fondamentalement, l'etude des rapports sociaux , en particuliers les rapports sociaux de production, qui animent une societe vont reveler la forme sous laquelle ses moyens de productions vont exister a un moment donne de l'histoire. Ces rapports sociaux vont realiser un travail sur notre monde dont la logique se confrontera aux realites materielles des moyens de production disponibles selon un deploiement qui suivra une progression dialectique. De ce constat decoule la tache imperieuse de bien identifier les antagonismes qui sous-tendent ce mouvement dialectique afin de rendre intelligible la suite des moments historiques rendus necessaires et qui rythment notre societe. De cette analyse peut etre deduite les differents stades de developement des classes sociales en contradictions et ainsi formuler de maniere explicite les taches necessaires afin de prolonger l'extension du domaine des libertes pour tous.
+
+Pour le proletariat la mechanisation-automatisation et la massification du travail a creer une masse de travailleurs dont les conditions se sont de plus en plus homogeneisees afin de rendre possible une conscience collective de leur condition partagee de classe laborieuse. Cette prise de conscience de masse est d'autant plus facilitee par les moyens de communication necessaire a la production de masse. Ce mouvement de socialisation grandissante de la production va se confronter de maniere contradictoire a l'appropriation individuelle et lucrative de ces moyens de production. 
+
+Convertir cette classe *en soi* en classe pour elle-meme de travailleurs, revient a elever sur le plan politique cette conscience de classe produite par l'activite economique de ces travailleurs.Le parti est l'organe dans lequel cette elevation au plan politique va avoir lieu. Cette expression politique prendra la forme d'une doctrine qui posera les elements principaux de la comprehension de la realite et des interets de cette classe, couplee a une pratique militante et revolutionnaire.
+
+## Parti,classe et cycle historique
+De la meme maniere que la massification et la socialisation de travail homogeneise la condition des travailleurs, le parti vise a exprimer la consolidation de la perspective politique commune de cette classe. 
+
+Etant une critique de la condition des travailleurs, le parti trouve son developement le plus fecond en periode de crise lorsque les conditions materielles et economiques des travailleurs sont exacerbees en terme de leur exploitation et precarite. De telles circonstances rendent plus intelligible la base commune a tous les travailleurs.
+
+Il decoule de ce developpement conditionne aux crises du capital une trajectoire non-lineaire pour la formation d'un parti proletaire, avec des phases de progression aigues, des stagnations, voir des regressions en fonction du degre d'hegemonie de la contre-revolution reactionnaire. Il est donc decisif de profite de l'acalmie d'une periode de maturation du parti (accalmie dans la lutte de classe) pour preparer au mieux l'opportunite revolutionnaire qu'offre les moments de crise.
+
+De cette preparation decoule la realisation d'une revolution comme 1917 le demontre de maniere victorieuse (Revolution Russe) et 1871 de maniere funeste (Commune de Paris conclu par al semaine sanglante).
+
+Cette intrication du parti avec les condition historique de la classe laborieuse marque aussi la necessite de laisser a cette organe suffisament de marge dans sa gouvernance et son mode de fonctionement pour au mieux promouvoir les interets du proletariat. Ainsi, il se peut que le fonctionement democratique majoritaire ne soit pas adequat en toute circonstance (clandestinite, urgence, inception, etc). Il sagit de s'assurer que la classe laborieuse realise la tache specifique que le moment historique rend necessaire dans l'optique d'un mouvement progressiste pour la societe.
+
+## Au centre: la violence, la revolution, la dictature du proletariat.
+La conquete du pouvoir au sens complet du terme (economique et politique) est necessaire pour elever la masse des travailleur en une classe a part entiere ambitionant de defendre effectivement ses interets avec comme etape decisive l'instauration d'une dictature du proletariat. Dans cette optique le parti contient en germe la forme de cette dictature du proletariat tout l'elevation de cette derniere en classe prelude de la forme que prendra sa domination sur la societe.
+
+La difference majeure avec les renversement/revolution precedente, c'est les travailleurs formant une classe avec une conscience concrete de la necessite de socialisation de la condition humaine, les rapports de production qu'elle instaurera seront incompatible avec une exploitation qui nierait cette verite acquise par sa pratique sociale. Ainsi en devenant la classe dominante, elle eliminera les rapports d'exploitation d'une minorite sur la majorite comme ce fut le cas pour tous les precedents historiques.
+
+La bourgeoisie a ete instrumentale dans le procesus d'emergence des travailleurs en tant que classe en soi, en effet la centralisation que les bourgeois ont promut pour leur fins lucrative a ete decisive dans l'homogeneisation de la condition des travailleurs. Ce nivellement s'etant largement fait par le bas, il a neanmoins eu le merite de mettre a jour le cadre commun a tous ces travailleurs. Cette prise de conscience collective d'une condition partagee a ete le premier moment qui a ensuite amene une expression politique comme l'illustre les accomplissement de la Montagne durant la revolution Francaise.
+
+La bourgeoisie a epuise sa dimension progressiste une fois l'ordre des privileges depasse par l'ordre du droit. Neanmoins cette extension du domaine de la raison sur ce qui etait jusqu'a ce moment du domaine de l'arbitraire/coryance doit prolonge. En effet l'ordre du droit ne nous premuni pas de l'exploitation qui elle ne peut etre depasse que par l'elimination des classes. Le flambeau progressiste doit donc etre transmis de cette bourgeoisie dominante mais devenu reactionnaire au proletariat exploite mais visant un horizon progressiste.
+
+## Mouvement social et mouvement politique: but et moyen
