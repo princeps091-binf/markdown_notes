@@ -11,54 +11,27 @@ De par cette proposition authentiquement democratique le cheminement militant de
 ## Le RIC president
 Etant donne la place qu'occupe l'election presidentielle dans la vie politique Francaise, il est apparu necessaire de faire exister, dans ce moment electoral, le RIC en tant qu'enjeu majeur de notre societe. Neanmoins l'etat actuel de la 5eme republique, avec un presidentialisme boursoufle, requiert de bien poser le RIC dans notre champs politique afin de garantir la promotion d'une democratie authentique et populaire.
 ### Une candidature RIC pour quoi faire?
-- Projet -> Pq une candidature = A la base espoir RIC = Faire exister une proposition authentique et claire du RIC emancipateur pour les citoyens
-    - Mise en place du RIC en matiere constitutionelle, toute reforme doit se faire aussi par RIC
-        - Convertir cette adhesion large de la population en sujet politique
-            - du meme ordre que l'acces au suffrage universel, vote des femmes, plus de droit politique
-            - Acquisition de ce droit produit une maturite politique par l'exercice de ce droit par de nouvelles activites qui realiseront ce nouveau statut 
-    - President est efficace car peut lancer une reforme constitutionelle -> Article 11 de la constitution pour appeler un referendum -> decision unilateral ~ procesus similaire a l'irlande
-           - Referendum pour reviser l'Article 89 decrivant le procesus pour modifier la constitution pour y inclure le RIC
-           - Projet (de executif) et proposition (du legislatif) de loi a soumettre a l'opinion nationale
-           - 62 - independance Algerie, 69 - reforme du senat
-    - Pas de programme de gouvernement => retour aux principes fondamentaux de notre 5eme
-       - Probleme dans les regles du jeu, cadre institutionel qui a concentre le pouvoir chez le president
-           - remettre le parlement au coeur du choix de politique
-           - President doit etre un arbitre et le programme se decide au parlement
-                - parade a la personification du pouvoir en remettant avant le role d'arbitre detache de la majorite
-                - Pas un retour au parlementarisme comme en Italie ou Pays-Bas car encore un scrutin majoritaire a deux tours
-            - Bi-camerisme ~ porter par la deliberation democratique RIC + parlement
-            - Role regalien ~ prerogative maintenues mais avec contre-pouvoir citoyen par le biais de l'assentiment du gouvernement avant toute decision
-            - Depuis inversion des elections, President executif aussi en charge
-        - RE-conquete de la souverainete nationale
-            - Classe dominante en collusion avec elite financiere
-            - Exemple de ric locaux pour mieux taxer les multi-nationale
-            - manque de transparence, rendu possible grace aux RIC abbrogatifs qui forceront une explicitation des positions defendus par les partis prenantes
-        - Nouvelle forme des partis pour se reconcilier a ce nouveau statut du citoyen
-        - Addresse a l'UE
-            - RIC constitutionel -> traite EU, selon article 54, si conflit il faut modifier la constitution => donc passage par le referendum
-                - Configuration similaire a l'irlande/Dk = rapport de force/negociation
-        - Controle sur le pouvoir judiciaire
-            - S.Q. Justice  2 vitesse determiner par la taille du porte-feuille et la notoriete
-            - Expose a cette detresse, l'activisme citoyen sera en mesure de produire des propositions politiques en mesure de mitiger les derives actuelles
-### Quelle place dans le paysage politique actuel?
-- Contacte a lumiere de ce parcours comme candidate pour faire exister ce theme dans le discours politique des elections
-    - Mandate suite a election comme incarnation de cette initiative
-        - Designation par Membres constituant -> membre du MIC, article 3, un suisse (Pierre-Alain Bruchaise)
-            - selon des criteres: Pas tres mediatique + rode aux manipulation rethorique des medias + pas identifie dans le paysage politique + pas identifie avec une initiative RIC
-        - Equipe dedie pour elaborer la forme la plus efficace pour porter le message
-            - micro-trotoire, etc
-    - Prete a laisser la place si un meilleur profil disponible
+L'initiative de faire exister une proposition authentique et claire du RIC emancipateur pour les citoyens pendant la saison electorale de 2022 a ete lancee par le collectif d'espoir RIC. L'enjeu etant de convertir l'adhesion large de la population pour cette revendication (c.f. importance prise par le RIC pour les Gilets Jaunes) en point focal des deliberations electorales. Parvenir a poser cette revendication populaire au centre des debats ouvrira de maniere tangible la perspective d'acquerir un droit nouveau qui prolongera les acquis du suffrage universel. En effet la conquete d'un RIC, comme formule par espoir RIC, elevera la conscience politique du peuple par la pratique de ce nouveau droit. Car ce nouveau droit etendra le statut actuel du citoyen pour l'enrichir de toute une serie d'activites necessaires a la realisation de ce RIC.
 
-- Parainage de maire = bottom-up en ciblant les maire ruraux ~ maillage local et echappant aux intrigues de partis
-    - d'abord des promesses qui a partir de 500 seront converti en signature
-- Rapport a la strategie de Nikonoff
-    - abstention ne sert les interets que de Macron + RN => gonfler son score relativement=> electorat le plus mobilise
-        - abstention insondable, du coup un peu telephone de projete tout projet precis sur ce corps elusif
-            - Avoeu d'echec
-- MCP ~ mvt constituant populaire 
+Plus precisement, cette instauration d'une democratie plus directe passerait par un référendum, comme definit par l'article 11 de la constitution, visant à faire adopter une modification de l’article 89 de la Constitution permettant d’élargir aux citoyens l’initiative des futures révisions constitutionnelles et de faire du peuple le seul décideur en matière de réforme constitutionnelle. Les details de ce procesus sont consultable sur la page d'espoir RIC (https://www.espoir-ric.fr/proposition-de-revision-constitutionnelle)
 
-# Etude sur le role des ONG dans un monde domine par l'imperialisme
-    - Prix de la croix rouge (institut de recherche) pour sa these
-        - instrumentalisation de l'aide humanitaire en zone de conflit (Kosovo 2mois + Kenya 3mois)
-            - ONG = organisation neo-gouvernementale
-            - initiative soutenant l'association survie 
+Dans le contexte institutionel Francais, cette proposition de RIC ouvrira aussi une discussion sur l'hyper-presidentialisation de notre republique et incitera a une reflexion sur les rapports de forces qui animent actuellement ses institutions. En effet la proposition d'espoir RIC s'insere dans un effort plus general de critique des developements institutionels recents qui ont produit une concentration du pouvoir dans les mains du seul president. Sur ce point espoir RIC revendique un retour aux racines de la 5eme republique avec un  president qui agirait en arbitre et non plus comme un hyper-premier ministre.
+
+De ce retour a un role d'arbitre decoule l'absence de programme associee a la candidature. En effet la candidature de Clara se base sur un mandat visant un re-equilibrage du rapport de force entre le parlement et le gouvernement afin de re-legitimer le corps legislatif devenu aujourd'hui une chambre d'enregistrement. Un tel basculement verra le parlement redevenir le coeur de la deliberation politique, ce qui par ca capacite a faire exister la multitude de l'electorat represente un progres democratique. Ce basculement en faveur du parlement explique pourquoi cette candidature n'est pas accompagnee d'un programme avec des elements qui seraient deja decides. En effet les choix de politiques publiques ne prennent tout leur sens democratique qu'en etant le resultat d'une deliberation democratique pour laquelle le parlement offre le meilleur cadre actuellement. Ainsi arriver avec un programme clef-en-main, tout en pronant une democratie reelle serait contradictoire.
+
+Cette parade a la personification du pouvoir, en remettant en avant le role d'arbitre du president detache des tractations parlementaires, pourrait apparaitre comme un retour au parlementarisme decrie des regimes precedents avec cette instabilite chronique du pouvoir. Neanmoins, etant donne le procesus de scrutin majoritaire a deux tours qui determine la composition du parlement, cette instabilite est substantiellement mitigee. De plus les roles regaliens de l'Etat seront toujours assures par un executif mais avec un contre-pouvoir citoyen par le biais de l'assentiment du gouvernement avant toute decision.
+
+La nouvelle configuration institutionelle qui resultera de la prise du pouvoir par cette candidature RIC representera aussi un pas vers une re-conquete de notre souverainete en tant que peuple. En effet la classe dominante profite a plein de cette concentration du pouvoir qui rend les strategies de cour, par le biais de lobbies grassement finances et autres copinages, tres efficaces tout en passant outre la deliberation democratique. Ainsi replacer le parlement au coeur de procesus politique rendra ces strategies plus difficiles a realiser. De plus la possibilite du RIC abbrogatif, qui permet a tout citoyen de s'opposer concretement a des decisions legislatives jugees inadequates, offre un espace nouveau dans le champs politique qui rendra encore plus transparent les enjeux qui animent la vie politique. En effet en forcant les partis prenantes d'une decision legislative, mise en question par un RIC abbrogatif, a directement se confronter au peuple dont une parti se sent flouee, forcera une explicitation des motivations et une deliberation qui incluera des partis prenantes peut-etre negligees lors de l'elaboration originale de la loi. De telles perspectives forceront aussi les partis politiques actuels a renouveler leur forme et leur role pour mieux correspondre a ce corps citoyen dote de droits nouveaux qui ont eveilles une conscience politique superieur a aujourd'hui.
+
+La proposition de cette candidature RIC changera aussi radicalement le rapport de notre nation avec l'Union Europeenne. En effet la necessite de passer par un RIC pour tout changement constitutionel installera un rapport de force nouveau qui nous rapprochera de la situation de l'Irlande ou le Danemark qui sont plus en mesure de negocier avec l'UE. Ceci tient du fait que la primaute formel du droit europeen (Article 54) devra se confronter a la volonte democratique des peuples et ainsi l'ambiguite actuelle concernant la souverainete de la France au sein de l'UE ne pourra plus etre ignoree. 
+
+### Une candidature RIC comment faire?
+De par son parcours professionel et militant, Clara a ete contactee par le collectif espoir RIC pour incarner cette candidature. Elle a ete mandatee suite a une election en interne realisee aupres des membres constituants du collectif. Les raisons de cette designation tiennent des characteristiques suivantes de Clara:
+- Faible mediatisation qui minimise la possibilite de prejudices causes par des evenements etrangers a la proposition politique portee par cette candidature.
+- Aucune affiliation a des partis politiques actuels sur la scene nationale, ce qui a le benefice de pas pouvoir la "classer" aveuglement dans le spectre politique.
+- Aucune affiliation a un collectif militant pour le RIC particulier, ce qui evitera une guerre de chapelle au sein de ce camps.
+- Rodee au joutes mediatique de par son activite au sein de Cortecs, la rendant particulierement competente pour surmonter l'aprete de la campagne a venir.
+
+Le projet travail actuellement a rendre cette proposition aussi porteuse que possible au sein de l'electorat et a collecter les fameuses 500 signatures de parainage. Dans les deux cas le collectifs vise une approche de terrain et au plus pres du territoire. Cela passe par une equipe dediee pour l'elaboration de la strategie de communication nourri pas de nombreux micro-trotoires pour faire remonter les problematiques principales de nos citoyens. Concernant les 500 signatures, ce soucis d'anchrer cette candidature a une base populaire et democratique passe par un ciblage de maires ruraux qui echappent a la logique electoraliste des grands partis et offrent un maillage territorial aussi representatif que possible.
+
+Cette strategie electorale contraste avec la proposition de Nikonoff, qui prone une abstention aux presidentielles mais une mobilisation aux legislatives. Selon Clara une telle strategie ne ferait que consolider la sur-representation de l'electorat RN/LREM, ce qui contribuera a renforcer l'emprise de ces partis sur la vie politique en France. De plus il est toujours hasardeux de projeter une proposition politique sur un ensemble qui ne s'est pas exprime et donc revendiquer d'etre la voix de ceux qui ne s'expriment pas semble plus opportuniste que realiste. Enfin cela representerait un avoeu d'echec pour la mobilisation sociale des dernieres annees si elle ne parvenait pas a produire une ouverture nouvelle et concrete pour notre horizon politique.
