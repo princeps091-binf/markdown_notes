@@ -8,7 +8,7 @@ The isolation of representatives is two-fold, reflecting their intermediary posi
 
 ### Relation to constituants
 
-- Regarding the relation towards constituant, it became clear that there is a need for an effective interface relfecting the diversity of PhDs and postdocs. This my be achieved through a variety of events and channels, but with varying levels of success or applicability depending on the faculty.
+- Regarding the relation towards constituant, it became clear that there is a need for an effective interface relfecting the diversity of PhDs and postdocs. This may be achieved through a variety of events and channels, but with varying levels of success or applicability depending on the faculty.
     - "local" organisations (Dept., PhD forums, etc)
         - Events
             - events + yearly meetings
@@ -29,6 +29,8 @@ The isolation of representatives is two-fold, reflecting their intermediary posi
     - Reaching through supervisors to raise -> target group for UiODoc to engage to increase our reach
         - Further reasons to strengthen relation with permanent staff representative
 ### Relation to administration
+- Regarding the relation to administration, it became apparent that the institutions and regulations do not encourage the effective engagement of temporary staff employees in the Faculty decision making process. This is illustrated by the overall lack of onboarding procedures for newly elected representatives and the opacity of key processes such as agenda-setting, policy elaborations, stakeholder hearings, etc. This situation suggests the need for an active effort to establish working relations with key actors at multiple levels of the Faculty administration.
+
 - Need for an Effective interface focusing on key gatekeepers and possible allies within the administration:
     - admin more welcoming now (according to MedFac)
         - not pro-active regarding understanding of the role of representative
@@ -47,7 +49,7 @@ The isolation of representatives is two-fold, reflecting their intermediary posi
 - V. different situation across departments
     - hard to quantify, systematically describe/capture the situation
 - General extension -> resistance from Deans despite Rektor support
-    - what to do with the extra money + 
+    - what to do with the extra money (flexible ear-marking) 
     - discouraged by supervisors to apply for extensions
 - Holiday policy
     - supervisor-specific circumstance
@@ -70,3 +72,5 @@ The isolation of representatives is two-fold, reflecting their intermediary posi
 - Reach out to Program comitees
     - UiO board staff rep -> election ongoing 
         - opportunity 
+
+22119495
