@@ -73,3 +73,15 @@ Considerations decoulant de ce role d'intermediation de l'abstrait pour saisir l
 
 ## Analyse et synthese
 
+L'analyse correspond a l'acte de briser en parcelles intelligibles un objet donne en le detachant de la totalite du reel. Cet acte a une parente direct avec la mort analyse ultime qui dissoud le vivant. L'analyse vise a identifier des elements en apparence "simples" et evidents mais dont l'etude plus approfondie revelera leur complexite intraseque. 
+
+Le critere qui qualifie une abstraction comme etant pertinente est son insertion en tant que moment dans le mouvement qui la determine et la depasse. Cette insertion dans cette totalite enrichie du detail de l'analyse correspond a la synthese. Cette analyse pour continuer sa penetration dans le reel doit etre couple avec la synthese qui va sortir de son isolement/unilateralite cette abstraction.
+
+La synthese est bien plus riche qu'une simple recapitulation mnemotechnique des resultats de l'analyse. La synthese opere simultanement avec l'analyse pour maintenir le lien avec la totalite et ainsi orienter et guider le scalpel de l'entendement dans son decoupage du reel. L'enjeu de la synthese etant d'inserer l'abstraction comme moment du mouvement plus total qui l'englobe. 
+
+## Induction et deduction
+
+L'induction part du particulier pour aboutir au general, la deduction fait le mouvement inverse en partant du general pour aboutir au particulier. L'induction est elle-meme divisee en deux categories, l'une dites rigoureuse visant une recapitulation succinte des faits accumules et l'autre dites amplifiante qui extrapole sur des faits encore non-observes.
+
+La methode scientifique deploit l'induction amplifiante sur la base du contenu produit par l'experimentation, ce qui du point de vue de la logique formelle correspond a un bond irrationelle. Cette critique s'applique aussi a la deduction car comment affirmer que les syllogismes contenus dans toutes deductions sont vrais sans en avoir observe la realisation? La deduction formelle se revele etre soit une tautologie ou une profession de foi denotant l'irrationalisme presume de la production de connaissance pour la tradition idealiste. 
+
