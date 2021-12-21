@@ -38,12 +38,12 @@ Il y a donc une nature synthetique au principe d'identite lorsqu'on le re-insere
 
 ## Le terme, le concept, la definition
 
-Un terme constitue le vehicule linguistique permetant a la pensee d'exprimer un raisonement. Ainsi on a le choix de remplir ce terme avec plus ou moins de contenu concret. Pour un logicien un terme peut etre pris comme pur elements logique articuler a d'autres termes par la grammaire ou autre conventions.
+Un terme constitue le vehicule linguistique permetant a la pensee d'exprimer un raisonement. Ainsi on a le choix de remplir ce terme avec plus ou moins de contenu concret. Pour un logicien un terme peut etre pris comme pur element logique articule a d'autres termes par la grammaire ou autre conventions.
 
 Pour la logique formelle, un terme peut etre mis en relation a d'autres termes en fonction de son degre de generalite et de leur inclusion mutuel. Ainsi un terme passe du singulier, au particulier pour atteindre l'universel au fur et a mesure qu'il monte en generalite. Plus un terme est general/universel plus son extension est grande mais cela correspond a une perte symmetrique en contenu concret.
 
-Lorsqu'un terme de generalite plus grande inclus un terme plus specifique on peut etablir un lien genealogique avec le premier representant un genre du second et ce dernier representant une espece du premier. Pour delimiter les contours de l'extension d'un terme il suffit donc de recenser toutes ces espece et symmetriquement, pour recapituler tout le contenu d'un terme il suffit de compiler l'ensemble des qualite distinguant ces genres successifs. Ce cette description exhaustive decoule une description ramassee/compressee par le genre prochain et la difference specifique.
+Lorsqu'un terme de generalite plus grande inclus un terme plus specifique on peut etablir un lien genealogique avec le premier representant un genre du second et ce dernier representant une espece du premier. Pour delimiter les contours de l'extension d'un terme il suffit donc de recenser toutes ses espece et symmetriquement, pour recapituler tout le contenu d'un terme il suffit de compiler l'ensemble des qualites distinguant ses genres successifs. De cette description exhaustive decoule une description ramassee/compressee par le genre prochain et la difference specifique.
 
-Une telle retranscription de la configuration des termes les par un rapport aux autres requiert de distinguer les qualites essentielles (necessaire pour positioner un terme par rapport au autres) des qualites accidentelles.
+Une telle retranscription de la configuration des termes les par un rapport aux autres requiert de distinguer les qualites essentielles (necessaire pour positioner un terme par rapport aux autres) des qualites accidentelles.
 
 ## Statique et dynamique du concept
