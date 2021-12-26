@@ -54,19 +54,19 @@ La configuration des idees selon le rapport genre prochain et difference specifi
 
 produisent des elements indefinissables. Cette impasse fut une blessure inconsolable pour la pensee Grecque.
 
-Ce mouvement symmetrique de la comprehension et de l'extension tout au long de la genealogie des idees du general au specifique indique l'impossibilite de cette representation de contenir dans sa totalite le reel que ce montage vise a encapsuler. 
+Ce mouvement symmetrique de la comprehension et de l'extension tout au long de la genealogie des idees du general au specifique indique l'impossibilite de cette representation a contenir dans sa totalite le reel que ce montage vise a encapsuler. 
 
 On remarque que pour les logiciens, ce montage est aborde unilateralement par l'extension des idee composant ce montage. Ces dernier privilgient une representation figee ou les idees s'enchassent les unes dans les autres comme des cercles concentriques avec une aire bien determinee. Cette vision quantitative de ces idees evacuent le contenu concret de ces idees (qualites essentielles) qui justifie la position et la relation respective de ces idees. 
 
-Cette approche mettant en emphase le rapport quantitatif/en extension de ce montage pre-suppose des ensembles de qualites relativement figes. Or si l'on considere les idees comme produit d'une activite vivante, cet ensemble de qualites essentielles est perpetuellement acutalise au fur et a mesure que notre confrontation avec le reel deborde les contours de nos idees originelles.
+Cette approche mettant en emphase le rapport quantitatif/en extension de ce montage pre-suppose des ensembles de qualites relativement figes. Or si l'on considere les idees comme produit d'une activite vivante, cet ensemble de qualites essentielles est perpetuellement acutalise au fur et a mesure que notre confrontation avec le reel deborde les contours de nos idees pre-etablies.
 
-Au general et a l'individuel qui characterisent les extremite du montage des logiciens, la tradition dialectique privilegie le couple universel/singulier. En effet, alors que le general et l'individuel etant definis par leur extension (infini et nulle respectivement) et donc incompatible, le couple universel/singulier se referre a deux totalites:
+Au general et a l'individuel qui characterisent les extremite du montage des logiciens, la tradition dialectique privilegie le couple universel/singulier. En effet, alors que le general et l'individuel etant definis par leur extension (infini et nulle respectivement) sont incompatibles, le couple universel/singulier se referre a deux totalites:
 
 - universel: totalite des qualites encapsulant un ensemble donne
 - singulier: totalite des qualites qui characterise un individu
 
 Ces deux extremites etant des totalites, on peut donc les reconcilier notament par le biais du particulier qui va exprimer les elements du singuliers que l'on peut ramasser en categories universelles.
 
-La distinction essentiel-accidentel est precaire, etant circonscrite par la collection de qualites considerees comme essentielle produite par l'etat actuelle de nos connaissance. Une telle juxtaposition ne devient intelligible que lorsque l'on considere l'ensemble des acitivites qui ont motive et produit ces connaissances, or la tradition formaliste evacue ce contenu en considerant ces rapports comme absolus.
+La distinction essentiel-accidentel est precaire, etant circonscrite par la collection de qualites considerees comme essentielle produite par l'etat actuelle de nos connaissance. Une telle juxtaposition ne devient intelligible que lorsque l'on considere l'ensemble des acitivites qui ont motivees et produites ces connaissances, or la tradition formaliste evacue ce contenu en considerant ces rapports comme absolus.
 
-Neanmoins l'exercice scientifique va approfondir ces qualites en quantite que l'on articule par le biais de lois (exprimes par la mathematique) que l'on valide par la mesure et l'experimentation. Ce procesus n'exclus pas la qualite, la logique ou le langage, mais l'envelope de telle maniere a approfondir notre saisi du reel en delimitant precisement le moment que constitue l'etat de nos connaissance a un moment donne. On constate donc la complementarite et le rapport necessaire qui existe entre la qualite et la quantite dans leur engendrement reciproque.
+Neanmoins l'exercice scientifique va approfondir ces qualites en quantite que l'on articule par le biais de lois (exprimes par la mathematique) que l'on valide par la mesure et l'experimentation. Ce procesus n'exclus pas la qualite, la logique ou le langage, mais l'envelope de telle maniere a approfondir notre saisi du reel en delimitant precisement le moment que constitue l'etat de nos connaissances a un moment donne. On constate donc la complementarite et le rapport necessaire qui existe entre la qualite et la quantite dans leur engendrement reciproque.
