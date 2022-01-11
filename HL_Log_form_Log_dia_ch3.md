@@ -70,3 +70,8 @@ Ces deux extremites etant des totalites, on peut donc les reconcilier notament p
 La distinction essentiel-accidentel est precaire, etant circonscrite par la collection de qualites considerees comme essentielle produite par l'etat actuelle de nos connaissance. Une telle juxtaposition ne devient intelligible que lorsque l'on considere l'ensemble des acitivites qui ont motivees et produites ces connaissances, or la tradition formaliste evacue ce contenu en considerant ces rapports comme absolus.
 
 Neanmoins l'exercice scientifique va approfondir ces qualites en quantite que l'on articule par le biais de lois (exprimes par la mathematique) que l'on valide par la mesure et l'experimentation. Ce procesus n'exclus pas la qualite, la logique ou le langage, mais l'envelope de telle maniere a approfondir notre saisi du reel en delimitant precisement le moment que constitue l'etat de nos connaissances a un moment donne. On constate donc la complementarite et le rapport necessaire qui existe entre la qualite et la quantite dans leur engendrement reciproque.
+
+## Le jugement
+Toute proposition depassant la tautologie (A = A) presente un paradoxe car elle introduit la proposition A = B. Cette formule dans sa forme la plus simple (A est B) va introduire une identite entre des termes differents.
+
+Les logicien vont y voir juste l'enumeration d'une des propriete implicitement contenu dans le concept de A, il sagirait ainsi d'une analyse du concept "A" selon un aspect precis. On reviendrait donc a une tautologie.
