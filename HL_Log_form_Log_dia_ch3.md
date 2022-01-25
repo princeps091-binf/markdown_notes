@@ -74,4 +74,38 @@ Neanmoins l'exercice scientifique va approfondir ces qualites en quantite que l'
 ## Le jugement
 Toute proposition depassant la tautologie (A = A) presente un paradoxe car elle introduit la proposition A = B. Cette formule dans sa forme la plus simple (A est B) va introduire une identite entre des termes differents.
 
-Les logicien vont y voir juste l'enumeration d'une des propriete implicitement contenu dans le concept de A, il sagirait ainsi d'une analyse du concept "A" selon un aspect precis. On reviendrait donc a une tautologie.
+Les logiciens vont y voir juste l'enumeration d'une des propriete implicitement contenu dans le concept de A, il sagirait ainsi d'une analyse du concept "A" selon un aspect precis. On reviendrait donc a une tautologie.
+
+On peut noter l'ambivalence de l'usage du verbe "etre" dans les formules:
+
+1. L'encre est (existence)
+
+2. L'encre est bleue (comprehension)
+
+Dans le second enonce il y a mise en relation des concepts encre et bleu. En effet ces deux concepts se croisent sans pour autant s'inclure mutuellement, car ni l'un ni l'autre n'arrivent a englober toutes leurs declinaisons respectives. Il y a des encres d'autres couleurs que le bleu et il y a d'autres objets que l'encre qui sont bleus.
+
+La constatation de cette intersection et son expression par la formule "*l'encre est bleue*" a donc un aspect synthetique car elle enrichie les deux termes/concepts mis en relation par l'experience de cet objet les reunissant. 
+
+Cette formule permet donc de convertir la simple distinction (juxtaposition) de l'encre et du bleu en une difference (A est non-A). Ainsi on ouvre la tautologie "A est A" au contenu de la difference "A est non-A" produit par la mise en lumiere de l'intersection de ces terme issut de l'experience.
+
+Cette exercice revele comment la relation entre des termes est rendu possible par la difference (A est non-A) qui nous oblige a approfondir chacun des termes afin de pouvoir reconcilier le contenu de leur concept avec l'experience de leur intersection. Cette difference doit donc, a une etape suivante, se convertir en identite pour reproduire l'unite reelle de cette multitude dans notre esprit.
+
+Ce developement peut donc se resumer comme suit:
+
+1. A = A et B = B sont juxtaposes
+
+2. On soupconne un rapport entre A et B (par l'experience)
+
+3. On cherche un aspect de A, A' qui realise ce rapport avec B
+
+4. On passe de A = A a A = A'
+
+5. Cet aspect s'autonomise en un concept X qui devient ainsi un caracter essentiel de A
+
+6. On constate que ce caractere (X) est partage avec B
+
+7. On passe de B = B a B = B' par le bias de X
+
+8. On arrive donc a A = B car A = X et B = X
+
+Cette derniere etape constitue un syllogisme, marquant de nouveau le role decisif de cette operation dans le production de connaissances
