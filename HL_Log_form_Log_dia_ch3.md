@@ -108,6 +108,6 @@ Ce developement peut donc se resumer comme suit:
 
 8. On arrive donc a A = B car A = X et B = X
 
-Cette derniere etape constitue un syllogisme, marquant de nouveau le role decisif de cette operation dans le production de connaissances. Ce que revele ce developement c'est comment le contenu produit les tautologies/genealogies mobilisees par la forme. En effet sans la constatation de ces intersections dans le reel, la forme serait incapable de creer ces relations de maniere concrete/effective. La forme pure ne permet que l'expression de possibilite indeterminee, mais c'est bien le reel qui garanti son accord avec elle-meme par le contenu concret qui va determiner et circonscrire les termes de ces relations.
+Cette derniere etape constitue un syllogisme, marquant de nouveau le role decisif de cette operation dans le production de connaissances. Ce que revele ce developement c'est comment le contenu produit les tautologies/genealogies mobilisees par la forme. En effet sans la constatation de ces intersections dans le reel, la forme serait incapable de creer ces relations de maniere concrete/effective. La forme pure ne permet que l'expression de possibilites indeterminees, mais c'est bien le reel qui garanti a la logique formelle son accord avec elle-meme par le contenu concret qui va determiner et circonscrire les termes de ces relations.
 
 ## Jugement synthetique et jugement analytique
