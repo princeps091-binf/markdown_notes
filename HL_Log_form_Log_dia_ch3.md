@@ -106,8 +106,9 @@ Ce developement peut donc se resumer comme suit:
 
 7. On passe de B = B a B = B' par le bias de X
 
-8. On arrive donc a A = B car A = X et B = X
+8. On arrive donc a A = B car A' = X et B' = X
 
 Cette derniere etape constitue un syllogisme, marquant de nouveau le role decisif de cette operation dans le production de connaissances. Ce que revele ce developement c'est comment le contenu produit les tautologies/genealogies mobilisees par la forme. En effet sans la constatation de ces intersections dans le reel, la forme serait incapable de creer ces relations de maniere concrete/effective. La forme pure ne permet que l'expression de possibilites indeterminees, mais c'est bien le reel qui garanti a la logique formelle son accord avec elle-meme par le contenu concret qui va determiner et circonscrire les termes de ces relations.
 
 ## Jugement synthetique et jugement analytique
+Chez Kant il y a une separation fondamentale entre jugement analytique et synthetique qui distingue respectivement les propositions qui explicitent ce qui est deja connu de celles qui produisent une relation nouvelle (entre attribut et objet). Une telle separation bien que pertinente se trouve etre inadequate pour fidelement retranscrire le mouvement de nos connaissances. En effet au moment de la decouverte d'un concept effectif et de sa description par un jugement, ce dernier est synthetique car produisant une connaissance nouvelle. Mais lorsque l'on enonce des connaissances deja bien etablies, ces jugements devienent analytiques car recapitulant la somme des connaissances accumulees a ce moment.
