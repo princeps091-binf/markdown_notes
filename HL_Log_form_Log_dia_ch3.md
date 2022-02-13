@@ -111,4 +111,67 @@ Ce developement peut donc se resumer comme suit:
 Cette derniere etape constitue un syllogisme, marquant de nouveau le role decisif de cette operation dans le production de connaissances. Ce que revele ce developement c'est comment le contenu produit les tautologies/genealogies mobilisees par la forme. En effet sans la constatation de ces intersections dans le reel, la forme serait incapable de creer ces relations de maniere concrete/effective. La forme pure ne permet que l'expression de possibilites indeterminees, mais c'est bien le reel qui garanti a la logique formelle son accord avec elle-meme par le contenu concret qui va determiner et circonscrire les termes de ces relations.
 
 ## Jugement synthetique et jugement analytique
-Chez Kant il y a une separation fondamentale entre jugement analytique et synthetique qui distingue respectivement les propositions qui explicitent ce qui est deja connu de celles qui produisent une relation nouvelle (entre attribut et objet). Une telle separation bien que pertinente se trouve etre inadequate pour fidelement retranscrire le mouvement de nos connaissances. En effet au moment de la decouverte d'un concept effectif et de sa description par un jugement, ce dernier est synthetique car produisant une connaissance nouvelle. Mais lorsque l'on enonce des connaissances deja bien etablies, ces jugements devienent analytiques car recapitulant la somme des connaissances accumulees a ce moment.
+Chez Kant il y a une separation fondamentale entre jugement analytique et synthetique qui distingue respectivement les propositions qui explicitent ce qui est deja connu de celles qui produisent une relation nouvelle (entre attribut et objet). Une telle separation bien que pertinente se trouve etre inadequate pour fidelement retranscrire le mouvement de nos connaissances. En effet au moment de la decouverte d'un concept effectif et de sa description par un jugement, ce dernier est synthetique car produisant une connaissance nouvelle. Mais lorsque l'on enonce des connaissances deja bien etablies, ces jugements devienent analytiques car recapitulant la somme des connaissances accumulees a ce moment. Ainsi au cours de la production de connaissance un jugement passe de synthetique a analytique.
+
+## Concept et jugement
+Une question recurente dans ce domaine concerne le couple concept-jugement et en particulier leur relation d'engendrement. Lequel des deux precede l'autre? La tradition Aristotelicienne pose le concept avant le jugement tandis que la tradition kantienne pose le jugement avant le concept.
+
+1. Poser le concept avant le jugement implique un procesus dans la production de connaissance comme suit:
+
+    - Nous ne percevons que des generalites avant d'approfondir dans le particulier
+
+2. Poser le jugement avant le concept implique un *autre* procesus dans la production de connaissance comme suit:
+
+    - La recherche de relation entre differentes experiences par le jugement
+
+    - La composition de concept par le regroupement de jugements en unite defini par certaines proprietes
+
+    - La mise en relation de ces concepts par syllogisme ou intersection empirique
+
+Neanmoins une fois un concept etablie, on identifie des objets selon leur appartenance/similarite a ces concepts afin de les positioner dans le champs de la connaisssance et ce de maniere effective.
+
+Encore une fois il sagit de constater que ces deux propositions traitent de differents moments dans le procesus de production de connaissance. La these aristotelicienne s'appliquant aux concepts deja etablies, tandis que la these Kantienne s'applique aux concepts en formation.
+
+De ces considerations emerge aussi la dialectique entre l'individu et l'espece. L'un et l'autre n'existant que "dans" et "par" l'autre.
+
+## Qualite et quantite des jugements
+
+Differentes propositions peuvent etre examinee selon les couples:
+
+- universel-particulier (quantite)
+
+- affirmative-negative (qualite)
+
+Des quatre combinaisons possibles entre ces deux couple on peut delimiter differentes categories:
+
+- A: Universel-affirmative
+
+- E: Universel-negative
+
+- I: particuliere-affirmative
+
+- O: particuliere-negative
+
+## Raisonement
+Le raisonement est l'activite qui vise a produire des connaissances nouvelles a partir des connaissances deja acquises. L'inference est ce mouvement qui part de connaissance deja acquise a des conclusions qui visent a mettre en lumiere de nouvelles connaissances. L'inference peut etre mediate ou immediate en fonction que cette derniere mobilise propositions intermediaires pour aboutir a ses conclusions.
+
+## inference immediates
+L'inference consiste en la mise en relation de propositions partageant les meme termes. Si l'on considere la taxonmie des propositions basee sur la qualite et la quantite on peut decliner une serie de pairs de propositions. Si l'une des propositions est fausse et l'autre vraie on peut identifier different cas de figures avec differentes consequences sur les connaissance produite par cette inference:
+
+- O + A => contradictoire (different par la qualite et la quantite)
+
+- A + E => contraire (deux universels differents par la qualite)
+
+    - mutuellement exclusive mais nous ne pouvons rien conclure de plus sur la proposition identifiee comme fause
+
+- I + O => sub-contraire (deux particuliers differents par la qualite)
+
+    - Si l'une est fausse l'autre est vraie. Mais nous ne pouvons rien conclure de l'autre si on sait que seulement l'une d'elle est vraie
+
+- A + I / E + O => subalterne (un universel et un particulier de meme qualite)
+
+    - la verite passe de l'universel au particulier
+    - la faussete passe du particulier a l'universel
+
+
+
