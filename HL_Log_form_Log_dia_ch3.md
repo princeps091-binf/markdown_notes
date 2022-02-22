@@ -160,9 +160,11 @@ L'inference consiste en la mise en relation de propositions partageant les meme 
 
 - O + A => contradictoire (different par la qualite et la quantite)
 
+    - Si l'une est vraie l'autre doit etre fausse
+
 - A + E => contraire (deux universels differents par la qualite)
 
-    - mutuellement exclusive mais nous ne pouvons rien conclure de plus sur la proposition identifiee comme fause
+    - mutuellement exclusive mais nous ne pouvons rien conclure de plus sur une proposition si l'autre est identifiee comme fause
 
 - I + O => sub-contraire (deux particuliers differents par la qualite)
 
@@ -173,5 +175,9 @@ L'inference consiste en la mise en relation de propositions partageant les meme 
     - la verite passe de l'universel au particulier
     - la faussete passe du particulier a l'universel
 
+Les inferences immediates n'ont d'utilites que dans leur capacite a se premunir des sophismes. De plus deux propositions contraires excluent une meme proposition contrdictoire, indiquant l'unite des propositions contraires. Ainsi en fonction de la proposition de depart on arrive a des conclusions opposees, en effet en constatant la faussete de l'une on peut rigoureusement passee a l'autre et vice versa marquant l'ambivalence de ces propositions (vrai et faux a la fois). Pour echapper a ce va et vient perpetuel il est necessaire de soliciter l'experience. Cette mobilisation de l'experience viendra enrichir chacune des propositions contraires d'un contenu plus profond refletant plus precisement la realite de A et non-A au-dela de leur opposition formelle. 
 
+On en arrive ainsi a constater que la logique formelle s'ouvre sur un mouvement permanent qui mobilise l'experience concrete pour delimiter les contours de ces propositions et que le seul contenu effectif de la logique formelle ne survient que dans le cas de la contradiction, a savoir la negation de cette logique formelle.
+
+## La conversion
 
