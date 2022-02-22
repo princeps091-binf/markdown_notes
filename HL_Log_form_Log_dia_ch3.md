@@ -181,3 +181,13 @@ On en arrive ainsi a constater que la logique formelle s'ouvre sur un mouvement 
 
 ## La conversion
 
+La conversion consiste a produire une nouvelle proposition en substituant le sujet par l'attribut, et l'attribut par le sujet de la proposition originelle. L'effet de cette operation sur la veracite de la proposition originelle suit des regles formelles. 
+
+Convertir des proposition universelles affirmatives ou particulieres negatives conduit a des absurdites.
+
+Pour preserver la veracite de la proposition apres conversion il faut que l'attribut originale une fois converti en sujet ne soit pas d'une plus grnde extension que le sujet original. Ainsi les universels negatifs ou les particuliers positifs peuvent etre converti sans perdre la veracite de la proposition originelle.
+
+## Portee du raisonement par inferences immediates
+Aussi limite qu'une forme vide de contenu
+
+## Le syllogisme. Sa rehabilitation
