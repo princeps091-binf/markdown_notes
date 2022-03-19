@@ -215,6 +215,11 @@ La maniere de mettre en relation la proposition mediatrice selon qu'elle soit at
 
 Cette essence du genre qui s'exprime chez l'espece, indique la problematique centrale de la logique dialectique qui vise a mettre en lumiere ces proprietes necessaires a la comprehension des individus de par leur appartenance a leurs genres respectifs.
 
-De telles montages constituent un mode courrant dans la comprehension de la realite malgre que cette demarche soit souvent laissee implicite.
+De telles montages constituent un mode courrant dans la comprehension de la realite malgre que cette demarche soit souvent laissee implicite. La preeminence de ce mode denote la puissance de ce montag dans la production de connaissance. En effet en initiant ce mouvement de reconciliation entre les differents termes variant par leur extension (universel/genre-singulier/espece-particulier/individu) contribue a la saisi concrete du reel.
 
+Typiquement on va separer pensee et objectivite. La pensee est consideree comme subjective et formelle alors que l'objectivite est consideree comme stable et operant selon une logique detachee de la pensee.
+
+Concretement la subjectivite de la pensee n'est qu'une etape dans le procesus de comprehension de l realite dans objectivite. Ainsi les lois formelles de la logique ne sont que la reproduction dans l'esprit de la realite objective. Dans ce mouvement le syllogisme joue un role charniere dans l'approfondissement de cette saisie du reel. L'intervention du moyen terme que permet le syllogisme va mettre en lumiere des elements du reel que l'etape anterieure de la comprehension du monde avait omis. Pose le syllogisme dans ce role charniere permet d'inclure dans les figures du syllogisme de nouvelles configurations dont la vise est la reconciliation de deux termes par le detour d'un terme mediateur, et ce peu importe la modalite de cette mediation (au dela de l'extension ou de la qualite)
+
+## La logistique. Examen critique
 
