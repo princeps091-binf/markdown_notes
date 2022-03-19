@@ -191,3 +191,30 @@ Pour preserver la veracite de la proposition apres conversion il faut que l'attr
 Aussi limite qu'une forme vide de contenu
 
 ## Le syllogisme. Sa rehabilitation
+Le syllogisme est compose par trois termes:
+- Majeure
+- Mineure
+- Conclusion
+
+e.g: "*Tout homme est mortel, or Socrate est un homme. Donc Socrate est mortel*"
+
+On peut aussi decompose le syllogisme comme suit:
+- premises
+- proposition mediatrice
+- conclusion
+
+Cette proposition mediatrice est ce qui distingue le syllogisme de l'inference immediate.
+
+Ce montage peut etre approchee par extension ou comprehension. L'approche par extension characterise la tradition formelle qui reduit le syllogisme au constat que le grand terme inclus les autres termes. On revient donc  une tautologie.
+
+L'approche par comprehension va reconcilier ces differents termes en suggerant la possibilite de re-decouvrir les proprietes essentielles du grand terme chez les autres termes.
+
+La maniere de mettre en relation la proposition mediatrice selon qu'elle soit attribut ou sujet des premises et les rapports qualitatif/quantitatif qui lient les differentes propositions, va determiner les differentes formes de syllogisme possibles. La variete de ces configurations va motive une litterature scholastique tres riche mais qui peut etre ramene au principe:
+
+> Ce qui est implique par le genre est implique par l'espece. Ce a quoi participe le genre est participe par l'espece.
+
+Cette essence du genre qui s'exprime chez l'espece, indique la problematique centrale de la logique dialectique qui vise a mettre en lumiere ces proprietes necessaires a la comprehension des individus de par leur appartenance a leurs genres respectifs.
+
+De telles montages constituent un mode courrant dans la comprehension de la realite malgre que cette demarche soit souvent laissee implicite.
+
+
