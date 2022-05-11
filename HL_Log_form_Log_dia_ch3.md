@@ -223,3 +223,29 @@ Concretement la subjectivite de la pensee n'est qu'une etape dans le procesus de
 
 ## La logistique. Examen critique
 
+La logistique prolonge l'ambition de produire une philosophie constituee exclusivement d'un ensemble de signes univoques articules selon des propositions logiques orgnisee en une arborescence refletant leur inter-dependence de maniere transparente.
+
+La logistique pour produire une telle representation va reduire le contenu des propositions logiques (type "tout les hommes sont mortels") a des considerations quantitatives d'inclusion d'un ensemble dans un autre en evacuant le contenu/determination qualitative. Cette reduction s'appliquera au syllogisme en le reduisant au principe de << substitution des semblables >>.
+
+De plus la logistique va deployer ne panoplie plus vaste de relation pour lier un sujet a son attribut, determinant de maniere plus explicite la multitude ambigue du verbe etre. On pense notament aux relations reversibles/mutuelles (egale a, equivaut, pres/loin de, en contact, etc) et contraire (au-dessus, est cause de, plus grand que,etc).
+
+Cette diversite des mode de relations denote l'emphase nouvelle donnee aux relations plutot qu'aix concepts eux-meme. Le concept se trouve donc subordonne au jugement (acte de mettre en relation), ce dernier etant maintenant represente par des signe comparable a des operations algebriques appliques aux concepts.
+
+De cet algebre decoule une tradition visant a convertir toute proposition logique en formule ou le sujet est considere comme une variable a laquelle on applique une serie de fonctions algebriques dont le resultat pourrat etre evaluer selon un critere de veracite. Ces fonctions evalue par exemple l'appartenance d'un sujet donne (variable) a une classe particuliere (fonction).
+
+Quelques objections peuvent etre adressees a cet exercice du point de vue de la logique concrete. 
+- La validation d'une proposition meme lorsque exprime dans une forme algebrique requiert l'insertion d'elements exterme issue de l'experience empirique et meme concrete.
+- L'algebre de la logistique va aussi souvent introduire la notion de negatif, or le contenu de cette opposition est bien plus determine que le simple changement de signe que lui attribut la logistique. Le negatif du plaisir n'est pas generiquement le non-plaisir, le contenu de ce negatif est bien plus determine par notre experience concrete.
+- Bien que garantissant la consistence d'une pensee, la logistique ne peut aspirer au mieux qu'a la tautologie et donc a une pense figee, recroquevillee dans sa repetition.
+- La reformulation de propositions logiques en une algebre ne repond pas explicitement a l'exercice de deduction, car cette reformulation ne met pas en lumiere pas le contenu et le sens qui denotent les principes/concepts qui ont inspires la proposition originale. 
+- La logistique n'offre aucune perspective au-dela des experiences passees, avec une impossibilite structurelle a prolonger les propositions au-dela de l'instant qui les a produit. L'induction est donc aussi impossible.
+- La logistique n'offre aucune garantie concernant la production de paradoxe formellement compatible avec ses regles.
+
+## Formalisme et contenu
+Il une poursuite infini de l'exercice d'analyse dans toute parcelle de la connaissance. Cet effort est a complementer avec le mouvment inverse de reconciliation enrichie des details reveles par l'approfondissement effectue par l'analyse. Ainsi l'exercice de formalisation qui va consolider les elements produit par l'analyse en des unite irreductible avec l'etat des connaissances actuelles,a toute sa place, mais reste un moment dans le procesus de production de connaissance.
+## L concept et l'idee
+Ce procesus de production de connaissance tendrait a une elucidation exhaustive du reel. Une telle conclusion reconcilierait la multitude infini du singulier par l'universel, supprimant de fait l'inconnu. Cette limite vers laquelle la connaissance converge est defnit comme l'idee, correspondant a la nature en elle meme, mais reconcilie de maniere explicite dans la connaissance humaine
+## L'etre et l'idee
+La capacite du verbe "etre
+ a permettre une reformulation de toute proposition mettant en exergue les attributs d'une sujet donnee permet d'identifier les parcelles du reel qui ont abouti dans le socle de connaissance humaine. Ce verbe etre designe aussi bien la determination la plus vague comme la conscience de l'existence issut de la sensation immediate de l'objet. Cette forme tres primordiale de la connaissance constitu le minimum necessaire pour toute production de connaissance, etabli par la tradition grecque. La metaphysique va figer ce geste essentiel en considerant de telles mouvements comme un objet et non comme un geste de la pensee humaine. Une pensee figee ne sera pas en mesure de surmonter le debordement effectue par la realite lorsque contrainte par les limite de l'anayse.
+## Histoire de la logique formelle
