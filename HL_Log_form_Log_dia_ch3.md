@@ -249,3 +249,31 @@ Ce procesus de production de connaissance tendrait a une elucidation exhaustive 
 La capacite du verbe "etre
  a permettre une reformulation de toute proposition mettant en exergue les attributs d'une sujet donnee permet d'identifier les parcelles du reel qui ont abouti dans le socle de connaissance humaine. Ce verbe etre designe aussi bien la determination la plus vague comme la conscience de l'existence issut de la sensation immediate de l'objet. Cette forme tres primordiale de la connaissance constitu le minimum necessaire pour toute production de connaissance, etabli par la tradition grecque. La metaphysique va figer ce geste essentiel en considerant de telles mouvements comme un objet et non comme un geste de la pensee humaine. Une pensee figee ne sera pas en mesure de surmonter le debordement effectue par la realite lorsque contrainte par les limite de l'anayse.
 ## Histoire de la logique formelle
+La logique formelle peut etre considere comme le point zero du procesus de production de connaissance. En effet en reduisant le contenu concret a sa portion la plus infime, la logique formelle constitue une absence de connaissance mais pose neanmoins l'armature necessaire sur laquelle un contenu concret doit s'adosser pour devenr intelligible. Comme le zero en arithmetique qui est a la fois un entier et un non-entier naturel, mais surtout le zero est le point de depart de cette serie infinie.
+
+Les origines de la logique formelle sont a trouver dans la Grece antique. La forme particuliere qu'a prise celle-ci peut etre reconcilier et meme derivee des circonstances materielles et historique de cette societe a ce moment de l'histoire humaine.
+- La pensee grecque prend appui sur l'heritage des civilisations du moyen-orient qui l'ont precedee. On peut note les premiers efforts de rationalisation du reel comme la fixation d'un calendrier, les premises de l'astronomie ou encore les bases de l'artihmetique.
+- La pensee grecque est enracinee dans un reseau de cite-etats dont le tissue social deploie une variete prodigieuse de specialisation et une division du travail jusqu'alors inegalee.
+- Cette division du travail promut le developement d'outils et de concepts a meme de repondre a la nouvelles complexite des rapports humains et des activites qui animaient ces systemes.
+- La cite permit aussi l'emergence d'un humain detache de l'arene familiale comme lieu d'organisation de la vie sociale. En effet de nombreuse cite grecque adopterent un regime democratique pour administrer leurs activites.
+- Ce regime democratique ouvra un espace ou la deliberation et l'exercice de la pensee critique purent s'epanouir de maniere inedite jusque la. La possibilite de remettre en question des preceptes illustres par les nombreux mythes qui jusque la monopolisaient l'expression de la conscience collective fut une conquete decisive dans l'histoire de la raison.
+- L'epanouissement de la rethorique et de la sophistique permirent de dessiner les contours d'une pensee "purement" formelle et ainsi d'etablir un espace deliberement determinee par la pensee humaine. Ce moment est aussi considere comme la fin de la pensee dite primitive, qui bien qu'ayant l'intuition de l'unite du reel etait incapable d'y creer un espace reconnaissant la volonte humaine. Les grands architects de cet espace inclus Platon ou Aristote.
+- Cette premiere saisie globale et confuse du reel par cette pensee "primitive" ne permetait aucune analyse qui devint une realite concrete des societes ou la division du travail s'etait etablie. En effet l'emergence de l'artisanat et du commerce rendi necessaire le geste d'abstraction du reel par la pensee afin de produire ces fameux artefacts.
+- Cette division du travail poussee au point atteint par les cites Grecques ouvra un espace ou l'exercie d'abstraction constituait le coeur de l'activite de certains membres de la societe. C'est dans ce context que le moment decisif de l'etablissement du principe d'identite eu lieu. Le geste de designer les contours d'un objet avec des proprietes orientees au benefice de la volonte humaine parfois l'encontre de la nature fut un prodigieux saut dans l'histoire de la raison.
+
+Malgre cet aboutissement remarquable, la pensee grecque en installant ces bases fut confrontees a une serie de contradictions qu'elle n'aspirera a resoudre qu'a son crepuscule. Parmi ces contradiction on noter:
+
+- infini vs. fini
+- theorique vs empirique
+- rationel atemporel vs tragique historique
+
+L'explication de cette impasse de la pensee grecque est a ancrer dans les circonstances materielle de cette societe. Ce moment de formalisation bien que necessaire et premier, doit etre depasse par une reconciliation avec le reel. Ce geste de reconciliation vise a surmonter ces contradictions posee par le reel par le moyen des pratiques inspirees par ces abstractions originales. La societe grecque, de par la separation entre ses classes en mesure de produire la pensee (hommes libres) et ses classes confrontees a la pratique concrete de la production dans le reel (esclaves), etait incapable de produire cette reconciliation.
+
+Cette separation de la pensee et de la pratique manifeste cette separation des classe implique dans ces activites respectives a tout une serie d'implication dans le contenu de la pensee grecque:
+
+- Une posture contemplative vis-a-vis des objets qu'elle abstrait de la nature, manifeste par une pudeur dans l'exercice de l'analyse comme indique par la place encore ample laisse au mythe.
+- La precarite politique des cites-etats produit une anxiete existentielle qui inspire un besoin d'absolu et de stabilite manifeste par la quete de principes moraux immuables detaches des contraintes du reel ou encore l'elaboration d'espace detache du reel ou des abstractions peuvent s'etaler dans leur tautologie.
+- L'esclavage comme base de la production est un obstacle au depassement des contradictions de notre existence car ceux en mesure de saisir le reel dans sa manifestation la plus concrete sont les moins solicite par la production de pensee.
+
+## La dialectique moderne
+Comme l'enfant persiste dans l'adulte malgre son depassement, la logique formelle va persister dans son depassement necessaire par la logique concrete.
