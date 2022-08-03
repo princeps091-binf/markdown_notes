@@ -49,3 +49,5 @@
 - Motif strength vs. spatial neighbourhood -> 42 tested but 62/61 TFs evaluated
     - categorise TF-peaks as strong if top 10% motif match
     - Proportion of strong vs other in spatially clustered vs "isolated" peaks
+
+- Original contribution of restricted ChIA-pet

@@ -1,0 +1,13 @@
+digraph snakemake_dag {
+    graph[bgcolor=white, margin=0];
+    node[shape=box, style=rounded, fontname=sans,                 fontsize=10, penwidth=2];
+    edge[penwidth=2, color=grey];
+	0[label = "compute_pvalue", color = "0.50 0.6 0.85", style="rounded"];
+	1[label = "wrap_clusters", color = "0.00 0.6 0.85", style="rounded"];
+	2[label = "wrap_features", color = "0.17 0.6 0.85", style="rounded"];
+	3[label = "count_annotations", color = "0.33 0.6 0.85", style="rounded"];
+	1 -> 0
+	2 -> 0
+	3 -> 0
+	2 -> 3
+}            
