@@ -1,0 +1,112 @@
+## 1 Me
+- Name + Position
+- in this talk I will be introducing a multi-Omics computational method aiming to detect trx-hubs (present in more detail later) by integrating HiC with transcriptomics data
+
+## 2 ToC
+- Outline=
+    - Bit of background to what I mean by "transcripional hubs"
+    - Intro the main components of this computational method
+    - Main results revolving around the examination of what makes being inside a hub so special
+
+## 3-4 What are trx-hubs
+
+- Starting assumption of this project= Notion that trx in the genome is organised as a collection of aggregates in the nucleus characterised by the co-localisation of regulatory factors and genomic regions to adequately coordinate the necessary transcription of the genome enabling the realisation of the cell's function
+    - this contrasts with a perception of the nucleus as homogeneous soup with various factors freely diffusing and randomly encountering their targets
+- What we expect characterises such transcriptional hubs is the compounded enrichment of both chromatin interactions + transcriptional events
+    - Thus main objective = detecting instances of such compounded enrichment genome-wide
+
+## 5-6 BootTHiC
+
+- Algo = reflection of this goal to detect compounded enrichment of chromatin interaction AND trx events.
+    - 1st interaction enrichment THEN trx enrichment
+    - Chromatin interactions = HiC -> HTseq probing spatial affinity of pairs of regions genome-wide
+        - Such enrichment expected to produce chromatin clusters characterised by displaying preferential self interaction
+        - We also expect chromosome architecture to span a variety of scales which is why we leverage multiple resolution of HiC data to best describe those various scales + explicitly constrain our clusters to be nested within one another so that we have a coherent description of chromatin architecture across scales
+        - These constraints form the essence of BHiCect 2.0 which a hierarchical clustering method we developed
+            - main output = clustering tree that traces how the chromosome can be decomposed into nested preferentially self-interacting clusters starting from the whole chromosome to individual loops between pairs of bins.
+    - Trx-enrichment= Among these clusters enrichment in HiC interactions (in a genome we produce around 0.5M such clusters) which one actually display a trx-enrichment characterising trx-hubs?
+        - Tech = CAGE-seq ~ RNAseq with very precise detection of trx-events (sharp-peaks) + capacity to distinguish promoter and enhancers, which will prove relevant in our results
+        - Trx-activity in cluster = number of CAGE-peaks contained
+            - Estimate how exceptional this observed count?
+                - compare with relevant "random" counts for that cluster
+                    - this method = bootstrapping
+                    - careful elaboration of "random" to account for confounding factors that might bias CAGE-peak counts.
+        - Comparing observed vs random counts produces an empirical p-value which we further correct for multiple testing using DAGGER which accounts for the nested dependence of the found clusters.
+        - Main output = collection of candidate trx-hubs (illustrated on the right)
+            - Custom visualisations to reflect the specificities of the clusters we produce
+
+## 7-8
+- V. briefly give some intuition about what these hubs represent
+- We tried our method on 3 cell-lines: GM12878 (immune), HMEC (mammary epithelia) and H1 (stem cell)
+    - have BOTH HiC + CAGE (condition or limitation of our method)
+- Across cell-lines find from 6K-8K hubs genome-wide 
+    - wide variety of size (10's kb to multiple Mb's)
+    - variety of interaction patterns
+        - diagonal blocks ~ TADs (checked that we actually recover them)
+        - checkerboard
+        - streaks        
+    - extensive overlap but still quite different neighbourhoods formed
+    - always observe majority (50%-60%) of CAGE peaks within hubs
+- Any functionaly relevance to these structures beyond the concentration of most of the trx-events?
+
+## 9-10 
+- Examining how various functional features distinguish being in vs out of hubs
+    - Here CAGE's capacity to distinguish between promoter and enhancer becomes handy
+        - Examine how promoter/enhancer content in vs out of hubs differ
+        - Promoter specificity
+        - Enhancer activity
+
+## 11
+- Promoter specificity through gene set enrichment
+    - evaluate how genes associated with promoters found inside hubs seem to highlight any particular fn
+        - Gene set enrichment analysis using Gene ontology
+            - function ~ gene sets curated by GO-consortium (expt support for association with various aspects of cell physiology)
+            - Define:
+                - BG = All genes associated with active CAGE-peaks (as documented by FANTOM 5)
+                - FG = All genes associated with active CAGE-peak found within hubs
+                - test = hypergeom with FDR correction
+## 12
+- Gradient of specificity across cell-lines
+    - GM12878 (immune) > HMEC (cell matrix, wounding, epithelia, etc) > H1 (unclear)
+- Supported notion of hub-gene specificity by depletion of housekeeping genes inside compared to geneome-wide expectation
+
+## 13
+- Enhancer activity
+    - Proxy for activity = 
+        - ChIP for H3K27ac + RNAP2
+        - CAGE-read count level directly
+    - For each enhancer assign maximum lvl observed for considered cell-line
+    - Compare enhancer in vs out of hubs
+        - non-parametric test to estimate significance of this difference
+## 14
+- Pattern quite straightforward
+    - systematically higher activity for enhancers inside compared to outside hubs
+        - interestingly such property not observed for promoter.
+
+## 15
+- Shifting gears bit by considering relation to cancer
+    - Considering cancer involves extensive gene dysregulation
+        - Hubs could be particularly impacted since they concentrate so much of trx signal
+## 16
+- Strategy = Compare change in expression between healthy and cancer samples and examine if this change differs depending on whether you are in vs out of hubs?
+    - Have trx data for healthy and cancer breast epithelium
+        - HMEC vs MCF7/MDA
+    - Have already found trx hubs in healthy breast epithelium
+    - Perform DGE analysis (DESeq2) with these samples and compare the differential expression pattern inside vs outside hubs
+
+## 17
+- Genes inside hubs seem to be prefferentially down regulated compared to genes outside hubs
+    - LFC negative bump
+    - Clear enrichment in most significantly down-regulated genes within hubs
+
+## 18
+- BootTHiC enables the detection of chromatin clusters compounding both HiC and trx enrichment (could be extended to any narrow epigenetic feature)
+    - Illustrated the relevance of these hubs
+        - contain more specialised genes
+        - contain more active enhancer
+        - get preferentially shutdown in cancer
+
+## Abstract
+The genome is a complex and dynamic object coordinating a multitude of processes enabling the appropriate activation of cell function from DNA information. Among this collection of processes, transcription plays a fundamental role as the necessary transition from the seemingly static and “universal” DNA information shared across a whole organism to the dynamic and particular transcription determining tissue function. 
+The regulatory mechanisms enabling this transcriptional agility relies on a precise coordination of both genome structure and function. In this presentation I will cover how we integrated multiple omics data to chart this coordination. This effort highlighted transcriptional hubs as structures that dynamically concentrate relevant biological features across cell-lines. 
+The detected hubs are characterised by hyper-active regulatory regions tightly coupled to cell-line specialised genes. We further show that genes found within hubs tend to be preferentially down-regulated upon shifting to a cancer state. 

@@ -1,0 +1,116 @@
+---
+title: "Introduction to R package building"
+author: "Vipin"
+institute: "Software Quality meeting"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+```{r xaringan-animate-css, echo=FALSE}
+xaringanExtra::use_animate_css()
+xaringanExtra::use_panelset()
+```
+class: left, middle
+
+# Outline
+
+- What are R packages ?
+
+  - Background and Purpose
+  
+  - Anatomy of an R package
+    
+- Use case for today
+
+---
+class: bottom, left, animated, slideInRight
+background-image: url('./img/rpackage_network.jpeg')
+background-size: contain
+
+*https://github.com/andrie/cran-network-structure*
+---
+class: left, middle
+
+- As of yesterday 19.045 packages on CRAN
+- Multiple ecosystems/dialects
+  - Tidyverse
+  - Rcpp
+  - MASS
+  - Bioconductor
+
+---
+class: left, middle
+
+# Package = Basic unit of code-sharing
+
+- Communicate code
+
+  - Intelligible
+  
+  - Robust
+  
+  - Self-contained
+
+---
+class: top, left, animated, slideInRight
+background-image: url('./img/pkg_book.png')
+background-size: contain
+---
+class: middle, center, animated, slideInRight
+
+# Anatomy of an R package 
+
+---
+
+class: left, middle
+
+# Basic ingredients
+
+- R ( ~ typical scripts)
+
+- man ( ~ comments)
+
+- test ( ~ panic printing)
+
+- DESCRIPTION
+
+- Not covered today
+
+  - data
+  
+  - vignettes
+
+---
+
+class: middle, center, animated, slideInRight
+
+# Use case 
+
+---
+class: top, left, animated, slideInRight
+background-image: url('./img/rpackage_tooling.png')
+background-size: contain
+
+---
+
+class: left, middle
+
+# Bit of context
+
+- Getting familiar with ATAC data amd MACS
+
+  - high-throughput sequencing technology
+  
+  - Quantify openness
+
+- Summarised as peaks
+
+  - Quite narrow interval with enriched read counts
+  
+  - Typical tool = MACS
+
+- Visualise relation between peaks and read count profile

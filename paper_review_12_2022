@@ -1,0 +1,173 @@
+# Leveraging epigenomes and three-dimensional genome organization for interpreting regulatory variation
+
+## Intro
+- GWAS have identified a large number of variants associated with different phenotypes and diseases.
+    - 93% of all GWAS variants are located in non-coding regions
+        - 20% located over 100kb away from any genic feature
+        - suspected to be regulatory regions
+    - challenges = 
+        - mechanisms by which such variants contribute to phenotypic variation
+        - cell types in which these variants operate
+
+- enhancers can harbor non-coding variants that impact gene expression in a cell-typespecific manner
+- Three-dimensional organization of the genome enables long-range regulatory interactions between distal enhancers and genes
+    - chromosomal looping
+- long-range interactions ~ important component for the interpretation of regulatory variation
+    -  implicated in many diseases such as autoimmune diseases and cancer
+
+- Goal: identify the gene networks that are targeted by sets of regulatory variants
+    - long-range regulatory interaction maps across multiple cell types
+    - computational tools that can leverage these interactions
+
+- Tech:
+    - Chromatin interactions: Hi-C
+        - limitation:
+            - required resolution to detect relevant interactions not available for many samples
+        - Instead use regression model to infer likely 3D interactions:
+            - leverage one-dimensional epigenomic signals
+                - histone modifications + TF-binding + accessibility
+                    - more widely available
+        - Further challenge for detecting relevant 3D interactions:
+            - link regulatory variants to their target genes
+            - identifying impact on downstream pathways -> linking distal regions to disease -> identify the target genes or gene pathways
+                - enhancer functional networks
+                - disease-relevant gene regulatory networks
+    - Limitations addressed:
+        - lack of comprehensive high-resolution cell-type-specific [long-range regulatory interactions] -> L-HiCReg
+        -  defining the target pathways of a set of regulatory variants -> graph-diffusion coupled with multi-task graph clustering
+
+    - L-HiCReg:
+        - Random Forests regression approach that predicts contact counts using one-dimensional regulatory genomic data sets
+            - generalize across a large number of cell types
+                - models trained on a smaller number of datasets
+                    - maximize the number of cell types for which we can make predictions
+                - uses discretized features
+                    - DNase1-seq,H3K27ac, H3K27me3, H3K36me3, H3K4me1, H3K4me3 and H3K9me3
+                    - Roadmap:
+                        - imputed missing values for 55 cell lines
+                        - derive accessible binding motifs for CTCF, RAD21 and TBP
+                    - make the features more comparable across cell types
+                        - raw fastq ->bowtie2->SAMtools->BEDTools->base pair level read count which was then aggregated in a 5kb region
+                            - normalized by sequencing depth and collapsed replicates by the median
+                            - -> discretize feature values into 20 bins using a k-means algorithm for each signal and matched the discrete levels across cell lines.
+                                - how different to a percentile rank transformation?
+                    - L-HiC-Reg predicts contact counts between 5kb pairs
+                        - adequate given Hi-C SQRTVC normalized data as target during training -> dimensionless number, not count ? [minor]
+                            - unclear how converted between normalized HiC level and actual counts
+
+
+                - segmented a chromosome into 1Mb segments and trained a Random Forests regression model for each adjacent 1Mb segment using high-resolution Hi-C
+                    - PAIR-CONCAT simply concatenates the features for each region into a single vector
+                    - WINDOW feature encoding additionally uses the average signal of the intervening region between the two bins as proposed in TargetFinder, a classification-based method
+                    - MULTI-CELL incorporates signals from other cell lines.
+                        - Minor L-HiCReg question:
+                            - Why linear distance not included?
+                                - 6 histone ChIP-seq, DNase I-seq and the 3 DNase I-seq filtered motif instance counts
+                            - Do bins across the considered interaction contribute equally when predicting HiC level?
+                                - tendency for a particular bin to dominate predictions?
+                                    - Shapley value could help untangling this property
+                            - how redundant are these models? How well does a model from a given 1Mb segment predict the hic interactions of the adjacent 1Mb segment?
+                                - subsidiary question 
+                                    - How far does this portability go?
+                                        - Does this property vary across cell-lines?
+        - Training and Validation:
+            - Calibration: all 5kb region pairs in which one or both of the 5kb regions in the pair was inside the 1Mb segment
+            - Test: same 1Mb region in a test cell type
+            - Rao: All cell-types
+            - Roadmap: GM12878
+                - performs well in predictions across cell lines
+            - Comparison ~ AUC
+                - All linear distance equally better/worse predicted as indicated by AUC summary metric?
+                    - Relevant to examine improved applicability for long-rang interaction inference
+
+## L-HiC-Reg long-range interactions are validated by complementary experimental sources and associated with highly expressed genes.
+- The probability of observing a given interacting pair of 5kb bins exactly k times
+- examine correspondence with complementary experimental data
+    - enrichment in intersecting ChIA-PET interactions
+        - fold enrichment -> unclear significance for >1 claim and extent of difference with other methods (GeneHancer + JEME)
+- Enrichment in more expressed genes intersecting significant interactions
+
+## Leveraging L-HiC-Reg long-range interactions to link regulatory SNPs to genes across diverse cell types
+- link non-coding SNPs to genes in a cell-type-specific manner across the 55 cell types
+    - non-coding SNP = labeled as intergenic and identified all SNPs in Linkage Disequilibrium (LD) with it (𝑅 2 = 0.8)
+    - mapped to genes using L-HiCreg
+        - significant interactions -> 
+            - A 5kb region in a pair can be associated with a gene if it overlapped within +/-2500bp of the TSS (GencodeV10)
+            - SNP in one bin and gene TSS in the other significantly interacting bin
+                - case of non-coding SNPs falling within promoter bin?
+        - 35.16% of SNPs mapped to genes
+            - greater coverage than other methods
+    - functional impact using QTL approach
+        - GWAS SNPs - gene pairing based on L-HiCReg association
+            - proportion also supported by eQTL (precision)
+            - proportion of eQTL SNP-gene associations in each predicted set (recall)
+        - Baseline:
+            - closest gene (nearest neighbor, NN) based on genomic distance to each GWAS and LD SNP and compared these SNP-gene associations to eQTL associations.
+                - 5kb window + LD associated? instead of 1 gene/SNP -> L-HiCReg detects associations at that scale
+                - GeneHancer better performer
+                - >200kb SNPs systematically better captured using cpu approaches vs baseline -> expected given design
+
+## Identifying downstream pathways impacted by regulatory variants
+- Identify pathways affected by SNP-set -> challenging
+    - not all pathways are known
+    - variation across tissues unknown
+- graph diffusion + multi-task graph clustering
+    - define gene subnetworks representative of gene pathways across different cell types
+    1. Merged a collection of cell-type-specific molecular interaction networks
+        - PPI -> universal
+        - Proximal gene-TF coupling + DNase accessibility -> tissues specific
+        - Distal gene-TF coupling through L-HiCReg infered interactions + DNase accessibility (PIQ) -> tissues specific
+        - For phenotype considered, direct hit = SNP with avg(-log(p-val)) for corresponding eQTL estimate
+        - Smoothened effect through graph diffusion
+    2. MUSCARI
+        - From 55 cell type specific gene networks
+            - Node scoring
+                - scored genes in a particular cell type
+                    - connected to a non-coding GWAS SNP or an LD SNP (Distal)
+                    - score = avg(-log(p-val)) for corresponding eQTL estimate -> direct hit
+                - Graph diffusion
+                    - detect additional downstream genes with no direct SNP interactions but with the greatest diffusion signal (top 1%)
+                    - two-steps: Motivation for succesive trnsformation elusive or assertive
+                        - Some calibrated with defaults, others set following some kind of optimisation
+                        1. D_V = regularized Laplacian kernel -> edge weighting
+                            - calibrate diffusion based on recovery of direct hit
+                        2. K_H = heat diffusion kernel -> estimate the influence of a node on its neighbours
+                            - set to a default value of 1
+                        3. Final matrix = K_H * D_V
+                            - subnetwork = direct hit + top 1% of diffusion
+                            - converted into a diffusion-state distance
+            - input =
+                - clusters in one cell type corresponds to same clusters in another cell type  
+                    - relationship tree between the cell types
+                - the number of clusters in each cell type
+                - define gene subnetworks for each cell type.
+    3. Interpret the biological impact of these clusters
+        - Collection of cell-type specific gene clusters
+            - GO-set enrichment for each cell type
+            - enrichment patterns -> # of GO-set terms x (7x55 gene cluster)
+                - NMF
+                    - sets of GO terms associated with groups of cell types/MUSCARI clusters (7 clusters per cell-type)
+                        - delineate bi-clusters of GO-set co-commitently enriched across different cell-types
+                        - For each NMF cluster, we took the top 10 terms and the top 5 cell types/MUSCARI cluster based on the maximum values in the lower dimensional factors.
+                            - How much variance explained by collection of NMF clusters
+                                - How concentraed is the NMF score within factors to justify the focus on this arbitrary top subset of terms and cell-types ?
+            - identify genes that change their cluster assignment across cell types
+                - cell-line specific network components
+
+The manuscript by Baur et al. titled "Leveraging epigenomes and three-dimensional genome organization for interpreting regulatory variation" was a compelling read and fulfilled the main criteria listed by PLOS computational biology for publication. The paper illustrates the use of L-HiCReg along with MUSCARI to detect functional associations between non-coding SNPs and gene networks mediated by long-range chromatin interactions. The capacity of this approach to highlight novel biological insights is illustrated with two use cases: coronary artery disease and breast cancer. Such efforts aiming to leverage the 3D context of chromatin to better inform the function of non-coding SNPs is a timely contribution to the field. I therefore only have minor comments that I find necessary to address before I recommend this manuscript for publication.
+
+
+Minor Commnents:
+With regards to the L-HiCReg model:
+- Why this choice of feature values discretized through K-means instead of using more straightforward transformation such as quantile-binning ?
+- L-HiC-Reg predicts contact counts between 5kb pairs, but the HiC data is normalised through SQRTVC transformation. This normalisation produces a unit-less HiC signal, for which I am not sure counts constitute an adequate representation. This is somewhat important as significant interactions are detected based on the assumption that the output of L-HiCRed are counts. Have the authors transformed the SQRTVC-normalised HiC data into counts? In which case this would need to be documented in the method section. Otherwise could the authors demonstrate how  SQRTVC-normalised HiC data behave like count data? 
+- For a given interaction, do bins across contribute equally when predicting the corresponding HiC level? Do we observe the tendency for a particular bin to dominate predictions? Such assymetric behaviour could be indicative of possibly interesting biology uniquely captured using L-HiCReg. Adapting a Shapley value approach could help untangle this property. This assymetry could potentially further support the functional effect of SNPs if they were to coincide with such "dominant" bin. This could fall outside the scope of the current manuscript and is just mentioned as a suggestion.
+- How redundant are these models? How well does a model from a given 1Mb segment predict the hic interactions of the adjacent 1Mb segment or beyond? This could directly trim the complexity of L-HiCReg and also reveal some potentially interesting biology as this "model-portability" could vary across cell-lines, indicating some different degrees of Structure-Function coupling.
+- The AUC metric while very good at summarising the overall difference in predictive performance between models, might overlook differences affecting specific linear distance ranges. This could prove problematic if the improvement only affected short-range distances. Having an evaluation specifically for long-range interactions predictions would greatly support the rest of the results that focus on such long-range interactions. 
+- The validation with complementary experimental data such ChIA-PET is welcomed but is hard to evaluate. While we do observe fold enrichment systematically greater than 1, it is hard to determine whether the magnitude of the observed enrichment is reliable in any way. Would it be possible to produce some measure of significance, using some form of chi-square test or bootstrapping?
+
+Concerning network building:
+- The series of transformation applied on the original cell-type-specific molecular interaction networks appears somewhat arbitrary. While the motivation to detect indirect effects seems reasonable, the choice of two  graph-diffusion applied sequentially is hardly explained. Would the results be dramatically impaired by applying only one? Furthermore it is unclear why an optimisation procedure was used for the first graph-diffusion (regularized Laplacian kernel), while default settings were used for the second (heat diffusion kernel).
+
+Regarding the interpretation of GO-enrichment for cluters found by MUSCARI
+- The NMF approach is a welcomed strategy to capture enrichment patterns over such a complex "semantic landscape". Nevertheless, would it be possible to get a sense of the amount of variance captured in this lower-dimensional space produced by NMF? As it stands, it is hard to evaluate how representative the enrichment patterns found by NMF are.
